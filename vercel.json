@@ -8,11 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/assets/(.*)",
-      "dest": "api/index.py"
-    },
-    {
-      "src": "/_dash-component-suites/(.*)",
+      "src": "/_dash-layout",
       "dest": "api/index.py"
     },
     {
@@ -24,11 +20,15 @@
       "dest": "api/index.py"
     },
     {
-      "src": "/_dash-layout",
+      "src": "/_dash-component-suites/(.*)",
       "dest": "api/index.py"
     },
     {
-      "src": "/(.*)",
+      "src": "/assets/(.*)",
+      "dest": "api/index.py"
+    },
+    {
+      "src": "/.*",
       "dest": "api/index.py"
     }
   ]
