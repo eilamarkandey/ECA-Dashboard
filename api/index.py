@@ -1,24 +1,25 @@
 from flask import Flask
 from dash import Dash
+import sys
+import os
+
+# Add the parent directory to Python path so we can import replica
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from replica import create_dash_app
 
 # Initialize Flask
 server = Flask(__name__)
 
-# Initialize Dash
-app = create_dash_app(server)
+# Initialize Dash with the server
+dash_app = create_dash_app(server)
 
 # Get the Flask application
-application = app.server
+app = dash_app.server
 
-# Add explicit route handlers
-@application.route('/')
-def index():
-    return app.index()
-
-@application.route('/<path:path>')
-def catch_all(path):
-    return app.index()
+# For Vercel serverless deployment
+@app.route('/')
+def home():
+    return dash_app.index()
 
 if __name__ == '__main__':
-    application.run(debug=True) 
+    app.run(debug=True) 
