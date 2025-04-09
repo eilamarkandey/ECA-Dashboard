@@ -8,14 +8,6 @@
   ],
   "routes": [
     {
-      "src": "/static/(.*)",
-      "dest": "/api/index.py"
-    },
-    {
-      "src": "/assets/(.*)",
-      "dest": "/api/index.py"
-    },
-    {
       "src": "/_dash-layout",
       "dest": "/api/index.py"
     },
@@ -32,7 +24,8 @@
       "dest": "/api/index.py"
     },
     {
-      "handle": "filesystem"
+      "src": "/assets/(.*)",
+      "dest": "/api/index.py"
     },
     {
       "src": "/(.*)",

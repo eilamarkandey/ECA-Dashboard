@@ -5,5 +5,5 @@ plotly==5.18.0
 dash-bootstrap-components==1.5.0
 openpyxl==3.1.2
 gunicorn==21.2.0
-werkzeug==3.0.1
+requests==2.31.0
 # Add any other dependencies your app uses

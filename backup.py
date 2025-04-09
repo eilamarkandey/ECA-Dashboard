@@ -18,8 +18,8 @@ import traceback
 
  ## this code has the 1st time ordered properly 
 # Define file paths
-input_path = r"C:\Users\eilam\OneDrive\CEC\ECA Campaigns_FY25_ALL_v2.xlsx"
-output_path = r"C:\Users\eilam\OneDrive\CEC\ECA Campaigns_FY25_BINARY.xlsx"
+input_path = r"C:\Users\eilam\OneDrive\CEC\data\ECA Campaigns_FY25_ALL_v2.xlsx"
+output_path = r"C:\Users\eilam\OneDrive\CEC\data\ECA Campaigns_FY25_BINARY.xlsx"
 
 # Define Stata's epoch
 STATA_EPOCH = pd.Timestamp('1960-01-01')

@@ -3,15 +3,14 @@ from dash import Dash
 import sys
 import os
 
-# Add the parent directory to Python path so we can import replica
+# Add parent directory to path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from replica import create_dash_app
 
-# Initialize Flask
+from app import create_dash_app
+
 server = Flask(__name__)
-
-# Initialize Dash with the server
 dash_app = create_dash_app(server)
+app = dash_app.server
 
 # The application
 app = server
