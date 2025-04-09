@@ -1,7 +1,8 @@
-dash==2.14.2
-flask==3.0.2
-pandas==2.2.1
-plotly==5.18.0
-dash-bootstrap-components==1.5.0
+flask==2.2.5
+dash==2.9.3
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+plotly==5.14.1
+pandas==2.0.3
 requests==2.31.0
-# Add any other dependencies your app uses
+gunicorn==20.1.0
