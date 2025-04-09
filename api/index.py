@@ -1,42 +1,17 @@
-from dash import Dash, html, dcc, Input, Output
+from dash import Dash, html, dcc
 import plotly.express as px
 import pandas as pd
-import requests
-from flask import Flask
 
-# Initialize Flask
-server = Flask(__name__)
+# Initialize the Dash app
+app = Dash(__name__)
+server = app.server
 
-# Initialize Dash
-app = Dash(
-    __name__,
-    server=server,
-    url_base_pathname='/',
-    assets_folder='assets'
-)
-
-# Enable the app to be imported by Vercel
-application = app.server
-
-# Cache the data
-CACHED_DATA = None
-
-def load_data():
-    global CACHED_DATA
-    if CACHED_DATA is not None:
-        return CACHED_DATA
-        
-    try:
-        file_id = '18Uz_n4Jp1EtXvCnQhqdGDFn1H7clLMyt'
-        url = f"https://drive.google.com/uc?export=download&id={file_id}"
-        response = requests.get(url)
-        df = pd.read_csv(url)
-        df.columns = df.columns.str.lower().str.replace(' ', '')
-        CACHED_DATA = df
-        return df
-    except Exception as e:
-        print(f"Error loading data: {str(e)}")
-        return pd.DataFrame()
+# Create sample data
+df = pd.DataFrame({
+    'Date': ['2024-01-01', '2024-01-02', '2024-01-03', '2024-01-04'],
+    'Campaign': ['Campaign A', 'Campaign B', 'Campaign A', 'Campaign B'],
+    'Type': ['Email', 'Social', 'Email', 'Social']
+})
 
 # Define the layout
 app.layout = html.Div(
@@ -53,59 +28,30 @@ app.layout = html.Div(
     },
     children=[
         html.H1(
-            "ECA Campaign Dashboard",
+            "Campaign Dashboard",
             style={
                 'textAlign': 'center',
                 'color': '#2c3e50',
-                'marginBottom': '30px',
-                'borderBottom': '2px solid #eee',
-                'paddingBottom': '10px'
+                'marginBottom': '30px'
             }
         ),
-        html.Div([
-            dcc.Loading(
-                id="loading-graph",
-                type="circle",
-                children=[dcc.Graph(id='main-graph')]
+        dcc.Graph(
+            figure=px.scatter(
+                df,
+                x='Date',
+                y='Campaign',
+                color='Type',
+                title='Campaign Timeline'
+            ).update_layout(
+                plot_bgcolor='white',
+                paper_bgcolor='white'
             )
-        ])
+        )
     ]
 )
 
-@app.callback(
-    Output('main-graph', 'figure'),
-    Input('main-graph', 'id')
-)
-def update_graph(_):
-    df = load_data()
-    if df.empty:
-        return {}
-    
-    fig = px.scatter(df,
-                    x='startdate',
-                    y='parentcampaignname',
-                    color='ecaactivitytype',
-                    title='Campaign Timeline')
-    
-    fig.update_layout(
-        plot_bgcolor='white',
-        paper_bgcolor='white',
-        title_x=0.5,
-        margin=dict(l=20, r=20, t=40, b=20),
-        xaxis_title="Start Date",
-        yaxis_title="Parent Campaign Name",
-        legend_title="ECA Activity Type",
-        font=dict(family="Arial"),
-        showlegend=True,
-        legend=dict(
-            yanchor="top",
-            y=0.99,
-            xanchor="left",
-            x=0.01
-        )
-    )
-    
-    return fig
+# This is required for Vercel deployment
+application = app.server
 
 if __name__ == '__main__':
-    app.run_server(debug=False) 
+    app.run_server(debug=True) 
