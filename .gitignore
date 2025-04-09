@@ -1,15 +1,13 @@
+.vercel
 __pycache__/
-
-.vercel/
-
 *.pyc
-
 .env
+venv/
+.venv/
+node_modules/
+*.log
 
 *.xlsx
 *.csv
 *.zip
 data/
-
-node_modules/
-.vercel
