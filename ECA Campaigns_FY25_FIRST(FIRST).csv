@@ -1,0 +1,614 @@
+parents_id,num_campaigns,frst_startdate,num_startdate,parentcampaignname,campaignname,startdate,enddate,meeting,event,anchor,campus,gnep,hazelwood,hill,homewood,olli,oakland,resp_connect,volunteer,firsttime,frst_inquiry,frst_outreach,followup_mtg,reoccurring,repeat,community_mtg,standalone,scheduling,concerns,other,internal,organization,resident,student,economic,education,healthcare,soc_community,neighborhood,sdoh_othr,eventduration,totalattendees,dayspast
+3,1,23663,23663,2025 Summer Program,10.14.2024 Science Center x Pitt Connection,10/14/2024,10/14/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+3,2,23663,23715,2025 Summer Program,12.5.2024 Science Center x Pitt Connection,12/5/2024,12/5/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,52
+11,1,23712,23712,Allegheny County Health Department (ACHD),Meeting - ACHD Public Board Meetings,12/2/2024,12/2/2024,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+21,2,23594,23594,Beam Ceremony,8.6.24 Beam Ceremony Walk Through,8/6/2024,8/6/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+21,3,23594,23594,Beam Ceremony,8.6.24 BioForge Beam Ceremony,8/6/2024,8/6/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+21,4,23594,23597,Beam Ceremony,8.9.24 Beam Ceremony Comms Plan,8/9/2024,8/9/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,3
+21,5,23594,23608,Beam Ceremony,8.20.24 BioForge Beam Ceremony,8/20/2024,8/20/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,14
+21,6,23594,23615,Beam Ceremony,8.27.24 BioForge Beam Ceremony,8/27/2024,8/27/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,21
+21,7,23594,23622,Beam Ceremony,9.3.24 BioForge Beam Ceremony,9/3/2024,9/3/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,28
+29,1,23615,23615,CEC - August Wilson African American Cultural Center (AWAACC),8.27.24 STEAM Community Day,8/27/2024,8/27/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0
+30,1,23638,23638,CEC - College in High School,9.19.24 College in High School - Life Sciences Pathway,9/19/2024,9/19/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0
+31,1,23622,23622,CEC - Department of Africana Studies,Meeting to discuss Communiversity Course - 9/3/24,9/3/2024,9/3/2024,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+34,1,23580,23580,CEC - Department of Psychology,Health Inequities,7/23/2024,7/23/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,4,0
+34,2,23580,23635,CEC - Department of Psychology,9.16.24 Youth Research Advisory Board Overview,9/16/2024,9/16/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,55
+43,1,23645,23645,CES/DEI T&P Workshop Planning,Planning Session - 9/26/24,9/26/2024,9/26/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,0
+43,2,23645,23693,CES/DEI T&P Workshop Planning,Planning - 11/13/24,11/13/2024,11/13/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,48
+43,3,23645,23714,CES/DEI T&P Workshop Planning,CES/DEI Informational Workshop,12/4/2024,12/4/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,69
+50,2,23574,23574,Campus Protest Community Engagement Support Intake,Sustainability Planning for STEM through Game Design Intake,7/17/2024,7/17/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,0
+52,2,23672,23672,Carnegie Reclassification Committee,Carnegie Reclassification Expenditures data review mtg - 10/23/2024,10/23/2024,10/23/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0
+52,3,23672,23693,Carnegie Reclassification Committee,Carnegie Follow Up Mtg: ECA + UCM,11/13/2024,11/13/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,21
+61,1,23625,23625,Center for Urban Education (CUE),Meeting re: Programming in WHSD,9/6/2024,9/6/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+64,2,23687,23687,Christmas Day at Pitt (CDAP),CDAP Meeting w/ Fraternity & Sorority Life - 11/7/24,11/7/2024,11/7/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+64,3,23687,23695,Christmas Day at Pitt (CDAP),University Relations Wrapping Party Planning Meeting - 11/15/24,11/15/2024,11/15/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,8
+64,4,23687,23705,Christmas Day at Pitt (CDAP),CDAP Pitt News Interview - 11/25/24,11/25/2024,11/25/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,18
+64,5,23687,23713,Christmas Day at Pitt (CDAP),Christmas Day at Pitt Planning Meeting - 12/3/23,12/3/2024,12/3/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,26
+64,6,23687,23721,Christmas Day at Pitt (CDAP),Christmas Day at Pitt Shadyside Academy Interview - 12/11/24,12/11/2024,12/11/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,34
+72,1,23607,23607,Communiversity: Intermediate Nonfiction,Communiversity course at the Hill CEC,8/19/2024,8/19/2024,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+72,2,23607,23629,Communiversity: Intermediate Nonfiction,Communiversity | Creative Nonfiction 9-10-24,9/10/2024,9/10/2024,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,1,22
+72,3,23607,23636,Communiversity: Intermediate Nonfiction,Communiversity | Creative Nonfiction 9-17-24,9/17/2024,9/17/2024,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,1,29
+72,4,23607,23643,Communiversity: Intermediate Nonfiction,Communiversity | Creative Nonfiction 9-24-24,9/24/2024,9/24/2024,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,1,36
+72,5,23607,23650,Communiversity: Intermediate Nonfiction,Communiversity | Creative Nonfiction 10-1-24,10/1/2024,10/1/2024,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,1,43
+72,6,23607,23657,Communiversity: Intermediate Nonfiction,Communiversity | Creative Nonfiction 10-8-24,10/8/2024,10/8/2024,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,1,50
+72,7,23607,23671,Communiversity: Intermediate Nonfiction,Communiversity | Creative Nonfiction 10-22-24,10/22/2024,10/22/2024,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,1,64
+72,8,23607,23678,Communiversity: Intermediate Nonfiction,Communiversity | Creative Nonfiction 10-29-24,10/29/2024,10/29/2024,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,1,71
+72,9,23607,23692,Communiversity: Intermediate Nonfiction,Communiversity | Creative Nonfiction 11-12-24,11/12/2024,11/12/2024,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,1,85
+73,1,23674,23674,Councilmember Bob Charland,Oakland Community Affairs Meeting w/ Bob Charland,10/25/2024,10/25/2024,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+76,1,23687,23687,Department of Epidemiology,Tour and Presentation of Homewood CEC,11/7/2024,11/7/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,0
+79,1,23652,23652,Dual Enrollment Pilot Study,Dual Enrollment Consult - 10/3/24,10/3/2024,10/3/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+79,2,23652,23673,Dual Enrollment Pilot Study,Dual Enrollment meeting - 10/24/24,10/24/2024,10/24/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,21
+79,3,23652,23729,Dual Enrollment Pilot Study,Dual Enrollment meeting - 12/19/24,12/19/2024,12/19/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,77
+85,1,23623,23623,Economic Impact Report,Economic Impact Report refresh - 9/4/2024,9/4/2024,9/4/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+85,2,23623,23643,Economic Impact Report,EIR and Anchor meeting - 9/24/2024,9/24/2024,9/24/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,20
+95,1,23698,23698,HQ: Business and Operations,Data Consistency Working Group - 11/18/2024,11/18/2024,11/18/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,7,0
+97,1,23686,23686,HQ: David C. Frederick Honors College,Honors College and SWPA Hub 11/6/24,11/6/2024,11/6/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,0
+100,1,23659,23659,HQ: Office of Risk Management,Enterprise Risk Management Meeting - 10/10/24,10/10/2024,10/10/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,5,0
+101,2,23623,23623,HQ: Office of Sustainability,Plastic Free Week Planning Meeting - 9/4/24,9/4/2024,9/4/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,10,0
+101,3,23623,23667,HQ: Office of Sustainability,Campus Tree Walk - Fall 2024 - 10/18/24,10/18/2024,10/18/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,2,44
+102,1,23614,23614,HQ: Office of the Chancellor,Site Visit to Greater Pittsburgh Community Foodbank,8/26/2024,8/26/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0
+102,2,23614,23638,HQ: Office of the Chancellor,Freespeech.pitt.edu 9/19/24,9/19/2024,9/19/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,24
+102,3,23614,23639,HQ: Office of the Chancellor,ECA & ACE Fellow Nukhet Sandal,9/20/2024,9/20/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,25
+105,1,23611,23611,HQ: Pitt Research,Research Concierge Orientation,8/23/2024,8/23/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+105,2,23611,23638,HQ: Pitt Research,APLU Humanities Arts and Social Sciences Presentation,9/19/2024,9/19/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,27
+106,3,23622,23622,"HQ: Planning, Design, and Construction",Central Oakland Demolition Strategy 9/3/24,9/3/2024,9/3/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,0
+106,4,23622,23651,"HQ: Planning, Design, and Construction",Sennott Square Labor Concerns,10/2/2024,10/2/2024,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6,29
+106,5,23622,23656,"HQ: Planning, Design, and Construction",Sennott Square Labor Concerns Follow Up 10/7/24,10/7/2024,10/7/2024,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6,34
+106,6,23622,23658,"HQ: Planning, Design, and Construction",Sennott Square Labor Concerns Mtng with OPDC 10/9/24,10/9/2024,10/9/2024,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,36
+107,1,23672,23672,HQ: Provost Office,Funding Students for Engagement,10/23/2024,10/23/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0
+112,1,23644,23644,HQ: School of Public Health,Intro with CHE Director Chapple-Mcgruder,9/25/2024,9/25/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+112,2,23644,23695,HQ: School of Public Health,Public Health Practice Showcase,11/15/2024,11/15/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,51
+113,1,23610,23610,HQ: Schools of Health Sciences,"Intro Meeting with Sylk Sotto - August 22, 2024",8/22/2024,8/22/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+114,1,23653,23653,HQ: Student Affairs,Consulting on PittServes Future Directions - 10/4/24,10/4/2024,10/4/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0
+114,2,23653,23658,HQ: Student Affairs,Meeting w/ Lorraine Craven - 10/9/24,10/9/2024,10/9/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,5
+114,3,23653,23660,HQ: Student Affairs,AVP/DOS Committee Pool Presentation,10/11/2024,10/11/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,7
+114,4,23653,23663,HQ: Student Affairs,Event Support Team Training - 10/14/24,10/14/2024,10/14/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,5,6,10
+114,5,23653,23665,HQ: Student Affairs,Meeting w/ Off-Campus Student Services - 10/16/24,10/16/2024,10/16/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,12
+114,6,23653,23670,HQ: Student Affairs,Interviews DOS/AVP Candidates,10/21/2024,10/21/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7,2,17
+114,7,23653,23671,HQ: Student Affairs,Interviews DOS/AVP Candidates,10/22/2024,10/22/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,18
+114,8,23653,23671,HQ: Student Affairs,Interviews DOS/AVP Candidates,10/22/2024,10/22/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,18
+114,9,23653,23673,HQ: Student Affairs,Oakland Community Walk with OCSS - 10/24/24,10/24/2024,10/24/2024,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,3,20
+114,10,23653,23677,HQ: Student Affairs,AVP/DOS Committee Meeting w/finalists,10/28/2024,10/28/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,12,24
+114,11,23653,23677,HQ: Student Affairs,AVP/DOS Town Hall Candidate A 10/28,10/28/2024,10/28/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,24
+114,12,23653,23678,HQ: Student Affairs,AVP/DOS Committee Meeting w/finalists,10/29/2024,10/29/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,12,25
+114,13,23653,23678,HQ: Student Affairs,AVP/DOS Town Hall Candidate B 10/29,10/29/2024,10/29/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,25
+114,14,23653,23679,HQ: Student Affairs,AVP/DOS Town Hall Candidate C 10/30,10/30/2024,10/30/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,26
+114,15,23653,23679,HQ: Student Affairs,AVP/DOS Committee Meeting w/finalists,10/30/2024,10/30/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,12,26
+114,16,23653,23680,HQ: Student Affairs,AVP/DOS Committee Meeting w/finalists,10/31/2024,10/31/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,12,27
+114,17,23653,23680,HQ: Student Affairs,AVP/DOS Town Hall Candidate D 10/31,10/31/2024,10/31/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,27
+114,18,23653,23681,HQ: Student Affairs,AVP/DOS Committee Meeting w/finalists,11/1/2024,11/1/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,12,28
+114,19,23653,23681,HQ: Student Affairs,AVP/DOS Town Hall Candidate E 11/1,11/1/2024,11/1/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,28
+114,20,23653,23684,HQ: Student Affairs,Deliberation for AVP/DOS search,11/4/2024,11/4/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,12,31
+114,21,23653,23687,HQ: Student Affairs,Student Affairs/Community Affairs Check In Meeting - 11/7/234,11/7/2024,11/7/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,34
+114,22,23653,23698,HQ: Student Affairs,Meeting w/ Lorraine Craven - 11/18/24,11/18/2024,11/18/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,45
+114,23,23653,23705,HQ: Student Affairs,ECA/FSL Check In Meeting - 11/25/24,11/25/2024,11/25/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,52
+115,1,23702,23702,HQ: Surplus Property,Surplus Donations Overview Meeting - 11/22/24,11/22/2024,11/22/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+117,2,23665,23665,HQ: University Center for Social and Urban Research (UCSUR),UCSUR Director discussion mtg - 10/16/2024,10/16/2024,10/16/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0
+117,3,23665,23684,HQ: University Center for Social and Urban Research (UCSUR),UCSUR Workshop - 11/4/2024,11/4/2024,11/4/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,32,19
+117,4,23665,23693,HQ: University Center for Social and Urban Research (UCSUR),Hill Health Alliance Discussion w/Bob Gradeck 11/13/24,11/13/2024,11/13/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,28
+118,1,23603,23603,HRAC Talent Management & Retention Subcommittee,HRAC Talent Management & Retention Subcommittee: First Meeting 8/15/2204,8/15/2024,8/15/2024,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+118,2,23603,23617,HRAC Talent Management & Retention Subcommittee,HRAC TMR Committee Meeting 8/29/2024,8/29/2024,8/29/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,14
+118,3,23603,23631,HRAC Talent Management & Retention Subcommittee,HRAC TMR Meeting 9/12/2024,9/12/2024,9/12/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,28
+118,4,23603,23644,HRAC Talent Management & Retention Subcommittee,HRAC TMR Meeting 9/25/2024,9/25/2024,9/25/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,41
+138,2,23587,23587,NSF Engine - RETI,NSF Workforce meeting with Betsy -7/30/2024,7/30/2024,7/30/2024,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+138,3,23587,23614,NSF Engine - RETI,NSF Engines Workforce Team Meeting  8/26/2024,8/26/2024,8/26/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,27
+138,4,23587,23624,NSF Engine - RETI,NSF Engines Workforce 9/5/2024,9/5/2024,9/5/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,37
+138,5,23587,23638,NSF Engine - RETI,NSF Engines Workforce 9/19/2024,9/19/2024,9/19/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,51
+138,6,23587,23659,NSF Engine - RETI,Workforce Meeting - 10/10/2024,10/10/2024,10/10/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,72
+138,7,23587,23680,NSF Engine - RETI,Workforce Meeting - 10/31/2024,10/31/2024,10/31/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,93
+138,8,23587,23681,NSF Engine - RETI,Bi-Weekly Meeting - 11/1/2024,11/1/2024,11/1/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,6,94
+138,9,23587,23684,NSF Engine - RETI,Workforce Meeting 11/4/2024,11/4/2024,11/4/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,97
+138,10,23587,23694,NSF Engine - RETI,Workforce Meeting - 11/14/2024,11/14/2024,11/14/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,107
+138,11,23587,23695,NSF Engine - RETI,NSF Engines RETI Bi-weekly meeting - 11/15/2024,11/15/2024,11/15/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,108
+138,12,23587,23714,NSF Engine - RETI,Workforce Meeting - 12/4/2024,12/4/2024,12/4/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,127
+138,13,23587,23716,NSF Engine - RETI,NSF Engines RETI Bi-weekly Check in - 12/6/2024,12/6/2024,12/6/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,129
+138,14,23587,23723,NSF Engine - RETI,NSF Engines RETI Bi-weekly Check in - 12/13/2024,12/13/2024,12/13/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,136
+138,15,23587,23729,NSF Engine - RETI,NSF Engines Workforce - 12/19/2024,12/19/2024,12/19/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,142
+138,16,23587,23730,NSF Engine - RETI,NSF Engines RETI Bi-weekly Check in - 12/20/2024,12/20/2024,12/20/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,143
+148,13,23642,23642,Non-Profit Capacity Building,External 1:1 Meeting with Toya Jones 9/23/24,9/23/2024,9/23/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+148,14,23642,23642,Non-Profit Capacity Building,External 1:1 Meeting with Kelly Gilliam 9/23/24,9/23/2024,9/23/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+148,15,23642,23652,Non-Profit Capacity Building,Nonprofit Capacity Building Navigator Check In WST & PSH 10/3/24,10/3/2024,10/3/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,10
+148,16,23642,23656,Non-Profit Capacity Building,PID/Tech 25/Pitt Meeting 10/7/24,10/7/2024,10/7/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,4,14
+148,17,23642,23657,Non-Profit Capacity Building,Adrianne Redwood Summit review Meeting 10/8/24,10/8/2024,10/8/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,15
+148,18,23642,23666,Non-Profit Capacity Building,Catalyst Kitchens Summit Discussion with CKP 10/17/24,10/17/2024,10/17/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,24
+148,19,23642,23679,Non-Profit Capacity Building,Nonprofit Capacity Building Navigator Check In Tech 25 and Per Scholas 10/30/24,10/30/2024,10/30/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,37
+148,20,23642,23694,Non-Profit Capacity Building,"Pitt Cyber, ECA and Per Scholas 10/30/24",11/14/2024,11/14/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,52
+148,21,23642,23716,Non-Profit Capacity Building,Nonprofit Capacity Building Navigator Check In PSH 12/6/24,12/6/2024,12/6/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,74
+148,22,23642,23723,Non-Profit Capacity Building,Nonprofit Capacity Building Navigator Check In Tech 25 and Per Scholas 12/13/24,12/13/2024,12/13/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,81
+148,23,23642,23730,Non-Profit Capacity Building,Financial Aid Meeting with Whitney Cumpston (NPCB related) 12/20/24,12/20/2024,12/20/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,88
+148,24,23642,23730,Non-Profit Capacity Building,Nonprofit Capacity Building Navigator Check In CKP & Cafe Momentum 12/20/24,12/20/2024,12/20/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,88
+159,1,23678,23678,Oakdale Seniors Alliance,OLLI - Seneca Senior Living Meeting 10/29/24,10/29/2024,10/29/2024,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+165,7,23624,23624,Oakland Planning and Development Corporation (OPDC),OPDC Strategic Planning Interview,9/5/2024,9/5/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+165,8,23624,23637,Oakland Planning and Development Corporation (OPDC),OPDC Let's Talk - PLI - 9/18/2024,9/18/2024,9/18/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,13
+165,9,23624,23707,Oakland Planning and Development Corporation (OPDC),ODF Board Meeting,11/27/2024,11/27/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,83
+165,10,23624,23729,Oakland Planning and Development Corporation (OPDC),OPDC Holiday Party,12/19/2024,12/19/2024,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,2,2,105
+173,1,23623,23623,PARENT 1: CEC - ADP,ADP @ The Homewood CEC,9/4/2024,9/4/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+177,1,23700,23700,PARENT 1: CEC - Art Therapy,Art Therapy Initial Meeting,11/20/2024,11/20/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,5,0
+177,2,23700,23722,PARENT 1: CEC - Art Therapy,Funding Meeting,12/12/2024,12/12/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,22
+179,1,23664,23664,PARENT 1: CEC - Bennett Place,Bennett Place (Fall Planning),10/15/2024,10/15/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,0
+181,1,23615,23615,PARENT 1: CEC - BioForge,8.27.24 Biomanufacturing/Life Sciences Workforce Discussion,8/27/2024,8/27/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,7,0
+181,2,23615,23625,PARENT 1: CEC - BioForge,9.6.24 BioForge Topping Out Ceremony,9/6/2024,9/6/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,3,3,10
+181,3,23615,23630,PARENT 1: CEC - BioForge,9.11.24 Intro Meeting for BioForge Design,9/11/2024,9/11/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,15
+181,4,23615,23653,PARENT 1: CEC - BioForge,10.4.24 BioForge + ElevateBio re:(pre)hiring,10/4/2024,10/4/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,38
+181,5,23615,23667,PARENT 1: CEC - BioForge,10.18.24 Laborer Union Cohort 1 - Lessons Learned,10/18/2024,10/18/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,8,52
+181,6,23615,23673,PARENT 1: CEC - BioForge,10.24.24 Texas A&M Workforce Development with BioForge,10/24/2024,10/24/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,58
+182,1,23587,23587,PARENT 1: CEC - Business and Operations,Supplier Diversity Efforts at the CEC's,7/30/2024,7/30/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,0
+183,9,23637,23637,PARENT 1: CEC - Center of Life,LOI Turn Discussion - 9/18/24,9/18/2024,9/18/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,4,0
+183,10,23637,23637,PARENT 1: CEC - Center of Life,9.18.24 Graphic Recorder Introduction,9/18/2024,9/18/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+183,11,23637,23649,PARENT 1: CEC - Center of Life,Federal Funding Consultation - 9/30/24,9/30/2024,9/30/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,12
+183,12,23637,23652,PARENT 1: CEC - Center of Life,"10.3.24 WTW - Tour, CEC in Homewood",10/3/2024,10/3/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,15
+183,13,23637,23672,PARENT 1: CEC - Center of Life,10.23.24 HG Team Meeting- November 15,10/23/2024,10/23/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,35
+183,14,23637,23684,PARENT 1: CEC - Center of Life,Development Discussion,11/4/2024,11/4/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,47
+183,15,23637,23691,PARENT 1: CEC - Center of Life,11.11.24 Hazelwood Green Team Monthly Check-in,11/11/2024,11/11/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,54
+183,16,23637,23695,PARENT 1: CEC - Center of Life,Center of Life Development Announcement - 11/15/24,11/15/2024,11/15/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,58
+183,17,23637,23695,PARENT 1: CEC - Center of Life,11.15.24 CoL Headquarter Announcement,11/15/2024,11/15/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,3,1,58
+183,18,23637,23695,PARENT 1: CEC - Center of Life,LOI Meeting - 11/15/24,11/15/2024,11/15/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,58
+183,19,23637,23706,PARENT 1: CEC - Center of Life,Center of Life Development Discussion - 11/26/24,11/26/2024,11/26/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,13,1,69
+183,20,23637,23719,PARENT 1: CEC - Center of Life,12.9.24 Hazelwood Green Team Monthly Check-in,12/9/2024,12/9/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,82
+189,1,23642,23642,PARENT 1: CEC - Equipoise,Equipoise Sub Group Women Administrators,9/23/2024,9/23/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,0
+191,2,23720,23720,PARENT 1: CEC - Garden of Different Abilities (GoDA),12.10.24 GoDA + Pitt Catch Up,12/10/2024,12/10/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0
+193,1,23574,23574,PARENT 1: CEC - Greater Hazelwood Family Center,7.17.24 Pitt + GHFC Introduction,7/17/2024,7/17/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0
+194,1,23681,23681,PARENT 1: CEC - Grounded Strategies,Initial meeting,11/1/2024,11/1/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0
+195,4,23597,23597,PARENT 1: CEC - Hazelwood Initiative (HI),8.9.24 Hazelwood BB - Design 1,8/9/2024,8/9/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0
+195,5,23597,23608,PARENT 1: CEC - Hazelwood Initiative (HI),8.20.24 Hazelwood National Night Out,8/20/2024,8/20/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,4,1,11
+195,6,23597,23629,PARENT 1: CEC - Hazelwood Initiative (HI),9.10.24 Hazelwood Initiative Community Meeting,9/10/2024,9/10/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,32
+195,7,23597,23636,PARENT 1: CEC - Hazelwood Initiative (HI),9.17.24 Hazelwood Carnegie Library,9/17/2024,9/17/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,39
+195,8,23597,23657,PARENT 1: CEC - Hazelwood Initiative (HI),10.8.24 Hazelwood Initiative Community Meeting,10/8/2024,10/8/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,60
+195,9,23597,23673,PARENT 1: CEC - Hazelwood Initiative (HI),10.24.24 Better Block Volunteering,10/24/2024,10/24/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,3,2,76
+195,10,23597,23675,PARENT 1: CEC - Hazelwood Initiative (HI),10.26.24 Better Block Greater Hazelwood,10/26/2024,10/26/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,4,2,78
+195,11,23597,23678,PARENT 1: CEC - Hazelwood Initiative (HI),10.29.24 Bagging Safe Halloween Candy,10/29/2024,10/29/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,2,3,81
+195,12,23597,23692,PARENT 1: CEC - Hazelwood Initiative (HI),11.12.24 Hazelwood Initiative Community Meeting,11/12/2024,11/12/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,95
+195,13,23597,23720,PARENT 1: CEC - Hazelwood Initiative (HI),12.10.24 Hazelwood Initiative Community Meeting,12/10/2024,12/10/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,2,123
+196,1,23632,23632,PARENT 1: CEC - Health and Education Alliance,SWPA AHEC Board Meeting -9/13/24,9/13/2024,9/13/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+198,1,23638,23638,PARENT 1: CEC - Hello Baby,Meeting re: Hello Baby Supply Storage - 9.19.24,9/19/2024,9/19/2024,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0
+198,2,23638,23680,PARENT 1: CEC - Hello Baby,ACHS-Hello Baby Outreach Team Meeting - 10/31/24,10/31/2024,10/31/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,42
+201,1,23582,23582,PARENT 1: CEC - Homeless Children's Education Fund (HCEF),Homewood Tour and Meeting,7/25/2024,7/25/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+203,1,23664,23664,PARENT 1: CEC - Homewood House,Homewood House (Fall 2024 Planning),10/15/2024,10/15/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,0
+206,1,23616,23616,PARENT 1: CEC - Imani Model of Education,Imani Model of Education - Initial meeting,8/28/2024,8/28/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+207,2,23617,23617,PARENT 1: CEC - Jada House International,8.29.24 Jada House/Pitt Alignment for Heinz,8/29/2024,8/29/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0
+207,3,23617,23643,PARENT 1: CEC - Jada House International,9.24.24 EvolvingSTEM + JADA GEMS,9/24/2024,9/24/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,26
+207,4,23617,23663,PARENT 1: CEC - Jada House International,"10.14.24 Check-In, EvolvingSTEM + JADA GEMS",10/14/2024,10/14/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,46
+207,5,23617,23666,PARENT 1: CEC - Jada House International,"10.17.24 Session #1, EvolvingSTEM + JADA GEMS",10/17/2024,10/17/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2,3,49
+207,6,23617,23673,PARENT 1: CEC - Jada House International,"10.24.24 Session #2, EvolvingSTEM + JADA GEMS",10/24/2024,10/24/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2,3,56
+207,7,23617,23692,PARENT 1: CEC - Jada House International,1.12.24 Senior STEM Activities Pitch,11/12/2024,11/12/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,75
+208,1,23677,23677,PARENT 1: CEC - Jeron X Grayson Center,Technology Support & Partnership Planning,10/28/2024,10/28/2024,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+208,2,23677,23701,PARENT 1: CEC - Jeron X Grayson Center,Consult with Pitt IT,11/21/2024,11/21/2024,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,24
+209,1,23603,23603,PARENT 1: CEC - Learning Research & Development Center (LRDC),Hill CEC Tour | Learning Research and Development Center,8/15/2024,8/15/2024,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0
+211,1,23700,23700,PARENT 1: CEC - Mystic Mamas,Initial Meeting,11/20/2024,11/20/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+214,1,23686,23686,PARENT 1: CEC - Pitt Alumni Association (PAA),Meeting to discuss CEC service partnerships,11/6/2024,11/6/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+215,1,23687,23687,PARENT 1: CEC - Pittsburgh Policy Initiative,Tour of Homewood CEC,11/7/2024,11/7/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,13,1,0
+215,2,23687,23727,PARENT 1: CEC - Pittsburgh Policy Initiative,12.17.24 Pittsburgh Policy Initiative + Hazelwood,12/17/2024,12/17/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,40
+216,3,23646,23646,PARENT 1: CEC - Planning Design and Construction,9.27.2024 BioForge Pocket Park and Art RFP,9/27/2024,9/27/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,4,0
+218,1,23583,23583,PARENT 1: CEC - SWPA Municipal Hub Project,7.26.24 Introduction - The Hub,7/26/2024,7/26/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+219,4,23618,23618,PARENT 1: CEC - School of Public Health (SPH),8.30.24 Illustrator/Graphic Design Interview,8/30/2024,8/30/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+219,5,23618,23635,PARENT 1: CEC - School of Public Health (SPH),Meeting w/ Tina Ndoh- 9.16.24,9/16/2024,9/16/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,17
+219,6,23618,23636,PARENT 1: CEC - School of Public Health (SPH),Intro to Community Health Class (BCHS 2554) 9-17-24,9/17/2024,9/17/2024,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,18
+219,7,23618,23645,PARENT 1: CEC - School of Public Health (SPH),CeNR Team: Environmental Stressors and Mental Health,9/26/2024,9/26/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6,27
+219,8,23618,23664,PARENT 1: CEC - School of Public Health (SPH),10.15.24 Greater Hazelwood Check-In,10/15/2024,10/15/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,46
+219,9,23618,23679,PARENT 1: CEC - School of Public Health (SPH),Bridging the Gaps Pittsburgh - 10/30/24,10/30/2024,10/30/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,2,0,61
+219,10,23618,23702,PARENT 1: CEC - School of Public Health (SPH),Pitt Public Health Board of Visitors,11/22/2024,11/22/2024,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,6,1,84
+219,11,23618,23722,PARENT 1: CEC - School of Public Health (SPH),STREAMR Research Study Qualitative Analysis Workshop,12/12/2024,12/12/2024,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,1,104
+221,1,23727,23727,PARENT 1: CEC - Shiftworks Community + Public Art,12.17.24 Pitt + Shiftworks Introduction,12/17/2024,12/17/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+222,1,23572,23572,PARENT 1: CEC - Squirrel Hill Urban Coalition,Blue Zone Project in Hazelwood,7/15/2024,7/15/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+222,2,23572,23700,PARENT 1: CEC - Squirrel Hill Urban Coalition,11.20.24 Holiday Mingle,11/20/2024,11/20/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,3,1,128
+223,1,23713,23713,PARENT 1: CEC - The Citizen Science Lab (TCSL),12.3.24 The Citizen Science Lab + UPitt,12/3/2024,12/3/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+228,1,23646,23646,PARENT 1: CEC - U3 Advisors,9.27.2024 CUMU Annual - Pitt and U3 Presentation,9/27/2024,9/27/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+228,2,23646,23665,PARENT 1: CEC - U3 Advisors,10.16.24 CUMU Annual - Pitt and U3 Presentation,10/16/2024,10/16/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,19
+230,1,23658,23658,PARENT 1: CEC - University Communications and Marketing (UCM),10.9.24 The Homepage + BioForge Updates,10/9/2024,10/9/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0
+232,1,23657,23657,PARENT 1: CEC - Visit Pittsburgh,African American Tourism Advisory Council,10/8/2024,10/8/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0
+233,1,23583,23583,PARENT 1: CEC - Washington University,WashU Pittsburgh Visit,7/26/2024,7/26/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,0
+234,1,23603,23603,PARENT 1: CEC - Westinghouse Class of 1967,Reunion Planning 8/15/24,8/15/2024,8/15/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+234,2,23603,23610,PARENT 1: CEC - Westinghouse Class of 1967,Reunion Planning 8/22/24,8/22/2024,8/22/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,7
+234,3,23603,23617,PARENT 1: CEC - Westinghouse Class of 1967,Westinghouse 57th Reunion Meeting,8/29/2024,8/29/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,14
+234,4,23603,23617,PARENT 1: CEC - Westinghouse Class of 1967,Reunion Planning 8/29/24,8/29/2024,8/29/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,14
+234,5,23603,23624,PARENT 1: CEC - Westinghouse Class of 1967,Reunion Planning 9/5/24,9/5/2024,9/5/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,21
+234,6,23603,23631,PARENT 1: CEC - Westinghouse Class of 1967,Reunion Planning 9/12/24,9/12/2024,9/12/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,28
+234,7,23603,23638,PARENT 1: CEC - Westinghouse Class of 1967,Reunion Planning 9/19/24,9/19/2024,9/19/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,35
+234,8,23603,23645,PARENT 1: CEC - Westinghouse Class of 1967,Reunion Planning 9/26/24,9/26/2024,9/26/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,42
+234,9,23603,23652,PARENT 1: CEC - Westinghouse Class of 1967,Reunion Planning 10/3/24,10/3/2024,10/3/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,49
+234,10,23603,23659,PARENT 1: CEC - Westinghouse Class of 1967,Reunion Planning 10/10/24,10/10/2024,10/10/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,56
+234,11,23603,23666,PARENT 1: CEC - Westinghouse Class of 1967,Reunion Planning 10/17/24,10/17/2024,10/17/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,63
+235,1,23664,23664,PARENT 1: CEC - Willissae’s Agency For Vision and Empowerment (WAVE),WAVE Initial Meeting,10/15/2024,10/15/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+235,2,23664,23681,PARENT 1: CEC - Willissae’s Agency For Vision and Empowerment (WAVE),WAVE Team Meeting (11/1/24),11/1/2024,11/1/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,3,0,17
+235,3,23664,23681,PARENT 1: CEC - Willissae’s Agency For Vision and Empowerment (WAVE),WAVE-Willissae's Agency for Vision and Empowerment Staff Meeting - 11/1/24,11/1/2024,11/1/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,17
+237,1,23674,23674,PARENT 1: CEC Psychology,Intro Meeting / CEC,10/25/2024,10/25/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,3,0
+240,1,23600,23600,PARENT 1: CEC – Community Kitchen Pittsburgh,8.12.24 Community Kitchen Pittsburgh Mental Health Resource Needs,8/12/2024,8/12/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+240,2,23600,23695,PARENT 1: CEC – Community Kitchen Pittsburgh,11.15.24 Narcan Training for CKP,11/15/2024,11/15/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2,2,95
+241,1,23565,23565,PARENT 1: CEC – Cycle Forward,7.8.24 Cycle Forward Introduction,7/8/2024,7/8/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+242,1,23615,23615,PARENT 1: CEC – Davis Consulting Solutions (DCS),8.27.24 Project Development Cohort Discussion,8/27/2024,8/27/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+243,1,23716,23716,PARENT 1: CEC – Hazel Grove Brewing,12.6.24 Hazel Grove Brewing Introduction,12/6/2024,12/6/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,0
+249,1,23660,23660,PARENT 1: CEC – Office of Real Estate,10.11.24 Office of Real Estate - Hazelwood Visit,10/11/2024,10/11/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+249,2,23660,23693,PARENT 1: CEC – Office of Real Estate,11.13.24 Office of Real Estate Hazelwood Tour,11/13/2024,11/13/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,33
+250,1,23636,23636,PARENT 1: CEC – Offroute Art Ltd,9.17.24 Offroute Art + Pitt Collaboration,9/17/2024,9/17/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0
+250,2,23636,23652,PARENT 1: CEC – Offroute Art Ltd,10.3.24 Offroute Art + Pitt Collaboration Follow Up,10/3/2024,10/3/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,16
+250,3,23636,23664,PARENT 1: CEC – Offroute Art Ltd,10.15.24 Offroute Art + Pitt Collaboration Follow Up,10/15/2024,10/15/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,28
+250,4,23636,23681,PARENT 1: CEC – Offroute Art Ltd,11.1.24 Offroute Art First Friday,11/1/2024,11/1/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,2,1,45
+250,5,23636,23716,PARENT 1: CEC – Offroute Art Ltd,12.6.24 Hazelwood December First Friday,12/6/2024,12/6/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,4,1,80
+250,6,23636,23716,PARENT 1: CEC – Offroute Art Ltd,12.6.24 Hazelwood Project Review w. OpenLab,12/6/2024,12/6/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,80
+250,7,23636,23723,PARENT 1: CEC – Offroute Art Ltd,12.13.24 Offroute Art Biotech Fellowship,12/13/2024,12/13/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,87
+253,2,23656,23656,PARENT 1: CEC – Pittsburgh Life Sciences Alliance (PLSA),10.7.24 PLSA Community Manager Introduction,10/7/2024,10/7/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+253,3,23656,23660,PARENT 1: CEC – Pittsburgh Life Sciences Alliance (PLSA),Megan Shaw Check in 10/11/24,10/11/2024,10/11/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,4
+253,4,23656,23666,PARENT 1: CEC – Pittsburgh Life Sciences Alliance (PLSA),10.17.24 Opportunities in SWPA Life Sciences Sector,10/17/2024,10/17/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,3,1,10
+254,2,23625,23625,PARENT 1: CEC – School of Public Health,9.6.24 CHEER in Hazelwood,9/6/2024,9/6/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,4,0
+254,3,23625,23693,PARENT 1: CEC – School of Public Health,Community Research Advisory Board (CRAB) - CHE monthly meeting- 11/13/24,11/13/2024,11/13/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3,0,68
+254,4,23625,23727,PARENT 1: CEC – School of Public Health,School of Public Health- Embrace Listening Session - 12/17/24,12/17/2024,12/17/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,102
+257,3,23569,23569,PARENT 1: Greater Hazelwood Neighborhood Commitment,7.12.24 HECF + Pitt Connection,7/12/2024,7/12/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+257,4,23569,23583,PARENT 1: Greater Hazelwood Neighborhood Commitment,7.26.24 Greater Hazelwood Planning Project Celebration,7/26/2024,7/26/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,8,14
+257,5,23569,23594,PARENT 1: Greater Hazelwood Neighborhood Commitment,8.6.24 Community Engagement Catch Up,8/6/2024,8/6/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,25
+257,6,23569,23600,PARENT 1: Greater Hazelwood Neighborhood Commitment,8.12.24 Reshaping 2024-2026 Heinz Grant Proposal,8/12/2024,8/12/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,31
+257,7,23569,23624,PARENT 1: Greater Hazelwood Neighborhood Commitment,"9.5.24 ""Life Sciences in Motion"" – A Hazelwood Green Tour & Signing Event",9/5/2024,9/5/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,4,1,55
+257,8,23569,23639,PARENT 1: Greater Hazelwood Neighborhood Commitment,9.20.24 Life Sciences Activity Book Implementation,9/20/2024,9/20/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,70
+257,9,23569,23642,PARENT 1: Greater Hazelwood Neighborhood Commitment,9.23.24 Pitt and Mon Water Project Introcuction,9/23/2024,9/23/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,73
+257,10,23569,23645,PARENT 1: Greater Hazelwood Neighborhood Commitment,9.26.2024 Resume Review w. Santonio Hill,9/26/2024,9/26/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,76
+257,11,23569,23656,PARENT 1: Greater Hazelwood Neighborhood Commitment,Life Sciences Workforce Learning & Pitt EDGE - 10/7/24,10/7/2024,10/7/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,87
+257,12,23569,23657,PARENT 1: Greater Hazelwood Neighborhood Commitment,10.8.24 CMU Youth Environment Project,10/8/2024,10/8/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,88
+257,13,23569,23658,PARENT 1: Greater Hazelwood Neighborhood Commitment,10.9.24 Life Sciences Activity Book Check-In,10/9/2024,10/9/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,89
+257,14,23569,23660,PARENT 1: Greater Hazelwood Neighborhood Commitment,"10.11.24 Coffee w. Pitt Graduate, Tatyana Reese",10/11/2024,10/11/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,91
+257,15,23569,23666,PARENT 1: Greater Hazelwood Neighborhood Commitment,10.17.24 Career Counseling in Hazelwood,10/17/2024,10/17/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3,1,97
+257,16,23569,23667,PARENT 1: Greater Hazelwood Neighborhood Commitment,10.18.24 Life Sciences Activity Book Check-In,10/18/2024,10/18/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,98
+257,17,23569,23677,PARENT 1: Greater Hazelwood Neighborhood Commitment,10.28.24 Life Sciences Activity Book Check-In,10/28/2024,10/28/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,108
+257,18,23569,23679,PARENT 1: Greater Hazelwood Neighborhood Commitment,10.30.24 Axiom + Pitt Introduction,10/30/2024,10/30/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,110
+257,19,23569,23680,PARENT 1: Greater Hazelwood Neighborhood Commitment,10.31.24 Career Counseling in Hazelwood,10/31/2024,10/31/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3,1,111
+257,20,23569,23680,PARENT 1: Greater Hazelwood Neighborhood Commitment,10.31.24 CSC The Rangos Giant Cinema: Superhuman Body (3D),10/31/2024,10/31/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,111
+257,21,23569,23694,PARENT 1: Greater Hazelwood Neighborhood Commitment,11.14.24 Career Counseling in Hazelwood,11/14/2024,11/14/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3,1,125
+257,22,23569,23695,PARENT 1: Greater Hazelwood Neighborhood Commitment,11.15.24 BioForge Construction Tour,11/15/2024,11/15/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,126
+257,23,23569,23698,PARENT 1: Greater Hazelwood Neighborhood Commitment,11.18.24 Life Sciences Activity Book Check-In,11/18/2024,11/18/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,129
+257,24,23569,23701,PARENT 1: Greater Hazelwood Neighborhood Commitment,11.20.24 BioPark & BioForge Connection,11/21/2024,11/21/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,132
+257,25,23569,23714,PARENT 1: Greater Hazelwood Neighborhood Commitment,12.4.24 Life Sciences Activity Book Check-In,12/4/2024,12/4/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,145
+257,26,23569,23721,PARENT 1: Greater Hazelwood Neighborhood Commitment,12.11.24 2025 EZ UP DISCUSSION,12/11/2024,12/11/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,152
+257,27,23569,23722,PARENT 1: Greater Hazelwood Neighborhood Commitment,12.12.24 Career Counseling in Hazelwood,12/12/2024,12/12/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,153
+257,28,23569,23726,PARENT 1: Greater Hazelwood Neighborhood Commitment,12.16.24 Newcastle-Pitt Meeting,12/16/2024,12/16/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,8,157
+260,2,23610,23610,PARENT1: Anchor Initiative,Economic Impact Strategies 8/22/2024,8/22/2024,8/22/2024,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+260,3,23610,23622,PARENT1: Anchor Initiative,Internal Executive Supplier Diversity Committee 9/3/24,9/3/2024,9/3/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,9,12
+260,4,23610,23646,PARENT1: Anchor Initiative,EDA University Centers Program 9/27/2024,9/27/2024,9/27/2024,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,36
+260,5,23610,23660,PARENT1: Anchor Initiative,Women Shaping Our Region - 10/11/2024,10/11/2024,10/11/2024,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,50
+260,6,23610,23688,PARENT1: Anchor Initiative,Defining Local - 11/8/24,11/8/2024,11/8/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,4,78
+260,7,23610,23702,PARENT1: Anchor Initiative,NCDF 2024 Annual Event - 11/22/2024,11/22/2024,11/22/2024,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,3,0,92
+263,1,23586,23586,PARENT1: CEC - Carnegie Library of Pittsburgh,7.29.24 Carnegie Library Hazelwood – Health Lecture Series,7/29/2024,7/29/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+263,2,23586,23667,PARENT1: CEC - Carnegie Library of Pittsburgh,Introduction meeting - Homewood CEC / GNEP,10/18/2024,10/18/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,81
+263,3,23586,23689,PARENT1: CEC - Carnegie Library of Pittsburgh,11.9.24 CLP-Hazelwood Tree Pittsburgh Free Tree Pick Up,11/9/2024,11/9/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2,103
+267,1,23608,23608,PARENT1: CEC - Dietrich School of Arts & Sciences (DSAS),8.20.24 Oral History in Hazelwood,8/20/2024,8/20/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+270,1,23609,23609,PARENT1: CEC - Energy Innovation Center (EIC),Meeting w. Pittsburgh Gateways/EIC - 8.21.24,8/21/2024,8/21/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+271,1,23609,23609,PARENT1: CEC - External CE Inquiries,Room Reservation Request | Beloved University,8/21/2024,8/21/2024,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+273,2,23658,23658,PARENT1: CEC - Graduate School of Public and International Affairs (GSPIA),10.9.24 GSPIA Policy & Social Impact Fellows,10/9/2024,10/9/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,4,0
+273,3,23658,23691,PARENT1: CEC - Graduate School of Public and International Affairs (GSPIA),11.11.24 GSPIA Policy & Social Impact Fellows,11/11/2024,11/11/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,33
+273,4,23658,23715,PARENT1: CEC - Graduate School of Public and International Affairs (GSPIA),12.5.24 GSPIA Policy & Social Impact Fellows Check-In,12/5/2024,12/5/2024,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,57
+275,1,23722,23722,PARENT1: CEC - Hill District Consensus Group,Meeting w/ Carol Hardeman - 12/11/24,12/12/2024,12/12/2024,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0
+277,1,23602,23602,PARENT1: CEC - Homewood Community Sports (HCS),Homewood Community Sports / SHRS Partnership,8/14/2024,8/14/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,7,0
+283,1,23624,23624,PARENT1: CEC - Philanthropic and Alumni Engagement,PAE - CEC & Health Sciences CFR Meeting - 9/5/24,9/5/2024,9/5/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0
+286,1,23656,23656,PARENT1: CEC - Pittsburgh Public Schools (PPS),"Career and Technical Education, BioTech - 10/7/24",10/7/2024,10/7/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,5,0
+286,2,23656,23658,PARENT1: CEC - Pittsburgh Public Schools (PPS),"Career and Technical Education, BioTech, Debrief - 10/9/24",10/9/2024,10/9/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,2
+287,1,23629,23629,PARENT1: CEC - Pittsburgh Scholar house,9.10.24 Introduction Hazelwood Meeting,9/10/2024,9/10/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+289,2,23575,23575,PARENT1: CEC - RAND,RAND Meeting,7/18/2024,7/18/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+289,3,23575,23576,PARENT1: CEC - RAND,PHRESH Interviews - 7/19/24,7/19/2024,7/19/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,3,0,1
+289,4,23575,23608,PARENT1: CEC - RAND,PHRESH Interviews - 8/20/24,8/20/2024,8/20/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,3,0,33
+289,5,23575,23611,PARENT1: CEC - RAND,PHRESH Interviews - 8/23/24,8/23/2024,8/23/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,36
+289,6,23575,23615,PARENT1: CEC - RAND,PHRESH Interviews - 8/27/24,8/27/2024,8/27/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,3,0,40
+292,1,23646,23646,PARENT1: CEC - School of Computing and Information (SCI),SCI CEC Fellowship 9/27/24,9/27/2024,9/27/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,5,0
+292,2,23646,23659,PARENT1: CEC - School of Computing and Information (SCI),10.10.24 SCI BOV Visit,10/10/2024,10/10/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,1,13
+293,2,23602,23602,PARENT1: CEC - School of Education (SOE),8.14.24 Introduction to Smithsonian Biotech Curriculum,8/14/2024,8/14/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+293,3,23602,23607,PARENT1: CEC - School of Education (SOE),Community Research Meeting - 8/19/24,8/19/2024,8/19/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+293,4,23602,23617,PARENT1: CEC - School of Education (SOE),Justice Scholars Program - 8/29/24,8/29/2024,8/29/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,15
+293,5,23602,23624,PARENT1: CEC - School of Education (SOE),Justice Scholars Program - 9/5/24,9/5/2024,9/5/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,22
+293,6,23602,23628,PARENT1: CEC - School of Education (SOE),WPWP Community Meeting - 9/9/24,9/9/2024,9/9/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,26
+293,7,23602,23645,PARENT1: CEC - School of Education (SOE),Justice Scholars Program - 9/26/24,9/26/2024,9/26/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,43
+293,8,23602,23646,PARENT1: CEC - School of Education (SOE),Esohe Osai - Research Paper Meeting,9/27/2024,9/27/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,5,0,44
+293,9,23602,23652,PARENT1: CEC - School of Education (SOE),Justice Scholars Program - 10/3/24,10/3/2024,10/3/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,50
+293,10,23602,23659,PARENT1: CEC - School of Education (SOE),Justice Scholars Program - 10/10/24,10/10/2024,10/10/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,57
+293,11,23602,23678,PARENT1: CEC - School of Education (SOE),CEC Tour (Oct 2024),10/29/2024,10/29/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,76
+293,12,23602,23692,PARENT1: CEC - School of Education (SOE),OCD-Think Tank Tuesday Meetings - 11/12/24,11/12/2024,11/12/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,90
+294,1,23565,23565,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Counseling and Behavioral Health,7/8/2024,7/8/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6,0
+294,2,23565,23565,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Physical Therapy - Homewood,7/8/2024,7/8/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,4,0
+294,3,23565,23566,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),SHRS Executive Planning Commitee,7/9/2024,7/9/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,15,1
+294,4,23565,23580,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),American Red Cross Babysitting Certification Class - 7/23/24,7/23/2024,7/23/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,15
+294,5,23565,23582,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),American Red Cross Babysitting Certification Class - 7/25/24,7/25/2024,7/25/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,17
+294,6,23565,23587,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),American Red Cross Babysitting Certification Class - 7/30/24,7/30/2024,7/30/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,22
+294,7,23565,23589,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),American Red Cross Babysitting Certification Class - 8/1/24,8/1/2024,8/1/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,24
+294,8,23565,23622,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic- Chiro & Audiology -9/3/24,9/3/2024,9/3/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,0,57
+294,9,23565,23623,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Aphasia Therapy Orientation - 9/4/2024,9/4/2024,9/4/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,58
+294,10,23565,23629,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic- Chiro & Audiology -9/10/24,9/10/2024,9/10/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,0,64
+294,11,23565,23636,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic- Chiro & Audiology -9/17/24,9/17/2024,9/17/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,0,71
+294,12,23565,23637,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic - Aphasia Small Therapy Group- 9/18/24,9/18/2024,9/18/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,6,0,72
+294,13,23565,23638,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Hope For Handwriting - 9/19/24,9/19/2024,9/19/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,73
+294,14,23565,23643,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic- Chiro & Audiology -9/24/24,9/24/2024,9/24/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,0,78
+294,15,23565,23643,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Monthly Bingo - 9/24/24,9/24/2024,9/24/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,78
+294,16,23565,23644,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic - Aphasia Small Therapy Group- 9/25/24,9/25/2024,9/25/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,6,0,79
+294,17,23565,23645,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Hope For Handwriting - 9/26/24,9/26/2024,9/26/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,80
+294,18,23565,23650,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic- Chiro & Audiology -10/1/24,10/1/2024,10/1/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,0,85
+294,19,23565,23651,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic - Aphasia Small Therapy Group- 10/2/24,10/2/2024,10/2/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,6,0,86
+294,20,23565,23652,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Hope For Handwriting - 10/3/24,10/3/2024,10/3/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,87
+294,21,23565,23652,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),American Red Cross Babysitting Certification Class - 10/3/24,10/3/2024,10/3/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,87
+294,22,23565,23657,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic- Chiro & Audiology -10/8/24,10/8/2024,10/8/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,0,92
+294,23,23565,23658,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic - Aphasia Small Therapy Group- 10/9/24,10/9/2024,10/9/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,6,0,93
+294,24,23565,23659,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Hope For Handwriting - 10/10/24,10/10/2024,10/10/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,94
+294,25,23565,23659,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),American Red Cross Babysitting Certification Class - 10/10/24,10/10/2024,10/10/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,94
+294,26,23565,23664,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic- Chiro & Audiology -10/15/24,10/15/2024,10/15/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,0,99
+294,27,23565,23665,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic - Aphasia Small Therapy Group- 10/16/24,10/16/2024,10/16/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,6,0,100
+294,28,23565,23666,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),American Red Cross Babysitting Certification Class - 10/17/24,10/17/2024,10/17/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,101
+294,29,23565,23666,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Hope For Handwriting - 10/17/24,10/17/2024,10/17/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,101
+294,30,23565,23671,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic- Chiro & Audiology -10/22/24,10/22/2024,10/22/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,0,106
+294,31,23565,23671,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Monthly Bingo - 10/22/24,10/22/2024,10/22/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,106
+294,32,23565,23672,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic - Aphasia Small Therapy Group- 10/23/24,10/23/2024,10/23/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,6,0,107
+294,33,23565,23673,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),American Red Cross Babysitting Certification Class - 10/24/24,10/24/2024,10/24/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,108
+294,34,23565,23673,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Hope For Handwriting - 10/24/24,10/24/2024,10/24/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,108
+294,35,23565,23678,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic- Chiro & Audiology -10/29/24,10/29/2024,10/29/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,0,113
+294,36,23565,23692,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic- Chiro & Audiology -11/12/24,11/12/2024,11/12/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,0,127
+294,37,23565,23693,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic - Aphasia Small Therapy Group- 11/13/24,11/13/2024,11/13/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,6,0,128
+294,38,23565,23694,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Hope For Handwriting - 11/14/24,11/14/2024,11/14/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,129
+294,39,23565,23699,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic- Chiro & Audiology -11/19/24,11/19/2024,11/19/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,0,134
+294,40,23565,23700,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic - Aphasia Small Therapy Group- 11/20/24,11/20/2024,11/20/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,6,0,135
+294,41,23565,23706,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Monthly Bingo - 11/26/24,11/26/2024,11/26/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,141
+294,42,23565,23713,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic- Chiro & Audiology -12/3/24,12/3/2024,12/3/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,0,148
+294,43,23565,23714,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic - Aphasia Small Therapy Group- 12/4/24,12/4/2024,12/4/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,6,0,149
+294,44,23565,23720,PARENT1: CEC - School of Health and Rehabilitation Sciences (SHRS),Wellness Pavilion Clinic- Chiro & Audiology -12/10/24,12/10/2024,12/10/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,0,155
+295,1,23586,23586,PARENT1: CEC - School of Medicine (SOM),7.29.24 Dept of Medicine + GHNC Introduction,7/29/2024,7/29/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+295,2,23586,23588,PARENT1: CEC - School of Medicine (SOM),MS1 Students Neighborhood Walk | Pitt Hill District CEC,7/31/2024,7/31/2024,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,1,2
+295,3,23586,23617,PARENT1: CEC - School of Medicine (SOM),Meeting with Liz Miller - 8/29/24,8/29/2024,8/29/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,31
+295,4,23586,23665,PARENT1: CEC - School of Medicine (SOM),10.16.24 Job Skills with Center of Life,10/16/2024,10/16/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,79
+295,5,23586,23665,PARENT1: CEC - School of Medicine (SOM),10.16.24 Dept of Emergency Medicine Introduction,10/16/2024,10/16/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,79
+295,6,23586,23667,PARENT1: CEC - School of Medicine (SOM),Asset Mapping and Behavior Health Integration Project - 10/18/24,10/18/2024,10/18/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,81
+295,7,23586,23679,PARENT1: CEC - School of Medicine (SOM),Meeting to discuss PCAT/CEC Partnership,10/30/2024,10/30/2024,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,93
+295,8,23586,23680,PARENT1: CEC - School of Medicine (SOM),Doula Thrive Project Kick Off Meeting - 10/31/24,10/31/2024,10/31/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,3,0,94
+295,9,23586,23687,PARENT1: CEC - School of Medicine (SOM),11.7.24 Connecting Hazelwood CEC Workforce Development,11/7/2024,11/7/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,101
+296,2,23575,23575,PARENT1: CEC - School of Nursing,Mid Wife (Homewood),7/18/2024,7/18/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0
+296,3,23575,23576,PARENT1: CEC - School of Nursing,7.19.24 SON Hazelwood Tour,7/19/2024,7/19/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,2,1
+296,4,23575,23607,PARENT1: CEC - School of Nursing,School of Nursing & Hill CEC Collaboration | Follow Up,8/19/2024,8/19/2024,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,32
+296,5,23575,23616,PARENT1: CEC - School of Nursing,8.28.24 Community Kitchen Pittsburgh Narcan Training Request,8/28/2024,8/28/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,41
+296,6,23575,23663,PARENT1: CEC - School of Nursing,10.14.24 Planned efforts in Greater Hazelwood,10/14/2024,10/14/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,88
+297,6,23644,23644,PARENT1: CEC - School of Social Work (SSW),9.25.24 Jay Huguley CKPgh Mental Health Resources,9/25/2024,9/25/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+297,7,23644,23656,PARENT1: CEC - School of Social Work (SSW),Asset Mapping and Behavioral Health Integration - 10/7/24,10/7/2024,10/7/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,12
+297,8,23644,23656,PARENT1: CEC - School of Social Work (SSW),JDP Team Meeting - 10/7/24,10/7/2024,10/7/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,12
+297,9,23644,23658,PARENT1: CEC - School of Social Work (SSW),Allegheny county Family Center-Protective Factors #1 - 10/9/24,10/9/2024,10/9/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,14
+297,10,23644,23664,PARENT1: CEC - School of Social Work (SSW),University of Pittsburgh fAIR Study - 10/15/24,10/15/2024,10/15/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,20
+297,11,23644,23684,PARENT1: CEC - School of Social Work (SSW),Meeting with Leah Jacobs - re: credit for community learners,11/4/2024,11/4/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,40
+297,12,23644,23686,PARENT1: CEC - School of Social Work (SSW),11.6.24 Violence Prevention Project – Hazelwood,11/6/2024,11/6/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,42
+297,13,23644,23714,PARENT1: CEC - School of Social Work (SSW),Allegheny county Family Center-Protective Factors #2 - 12/4/24,12/4/2024,12/4/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,3,0,70
+297,14,23644,23726,PARENT1: CEC - School of Social Work (SSW),Just Discipline Project - JDP Meeting 12/16/24,12/16/2024,12/16/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,82
+299,14,23581,23581,PARENT1: CEC - Swanson School of Engineering (SSOE),7.24.24 NSF Engineering Research Center Intro,7/24/2024,7/24/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+299,15,23581,23581,PARENT1: CEC - Swanson School of Engineering (SSOE),CampBioE 2.0 - 7/24/24,7/24/2024,7/24/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,0
+299,16,23581,23582,PARENT1: CEC - Swanson School of Engineering (SSOE),CampBioE 2.0 - 7/25/24,7/25/2024,7/25/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,1
+299,17,23581,23583,PARENT1: CEC - Swanson School of Engineering (SSOE),CampBioE 2.0 - 7/26/24,7/26/2024,7/26/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,2
+299,18,23581,23586,PARENT1: CEC - Swanson School of Engineering (SSOE),CampBioE 2.0 - 7/29/24,7/29/2024,7/29/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,5
+299,19,23581,23587,PARENT1: CEC - Swanson School of Engineering (SSOE),CampBioE 2.0 - 7/30/24,7/30/2024,7/30/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,6
+299,20,23581,23588,PARENT1: CEC - Swanson School of Engineering (SSOE),CampBioE 2.0 - 7/31/24,7/31/2024,7/31/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,7
+299,21,23581,23589,PARENT1: CEC - Swanson School of Engineering (SSOE),CampBioE 2.0 - 8/1/24,8/1/2024,8/1/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,8
+299,22,23581,23590,PARENT1: CEC - Swanson School of Engineering (SSOE),CampBioE 2.0 - 8/2/24,8/2/2024,8/2/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,9
+299,23,23581,23593,PARENT1: CEC - Swanson School of Engineering (SSOE),CampBioE 2.0 - 8/5/24,8/5/2024,8/5/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,12
+299,24,23581,23594,PARENT1: CEC - Swanson School of Engineering (SSOE),CampBioE 2.0 - 8/6/24,8/6/2024,8/6/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,13
+299,25,23581,23595,PARENT1: CEC - Swanson School of Engineering (SSOE),CampBioE 2.0 - 8/7/24,8/7/2024,8/7/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,14
+299,26,23581,23596,PARENT1: CEC - Swanson School of Engineering (SSOE),CampBioE 2.0 - 8/8/24,8/8/2024,8/8/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,15
+299,27,23581,23597,PARENT1: CEC - Swanson School of Engineering (SSOE),CampBioE 2.0 - 8/9/24,8/9/2024,8/9/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,16
+299,28,23581,23714,PARENT1: CEC - Swanson School of Engineering (SSOE),12.4.24 Bruker 2pPlus Multiphoton Microscope Info Session,12/4/2024,12/4/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,133
+303,2,23565,23565,PARENT1: Community Affairs,Street Closure Coordination Meeting,7/8/2024,7/8/2024,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+303,3,23565,23565,PARENT1: Community Affairs,Development Activities Meeting: 450 Melwood Ave - 7/8/24,7/8/2024,7/8/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+303,4,23565,23572,PARENT1: Community Affairs,Development Activities Meeting: Schenley Heights Pavilion/REW Memoria - 7/15/24,7/15/2024,7/15/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,7
+303,5,23565,23574,PARENT1: Community Affairs,Arrival Week Community Resource Event Planning Meeting - 7/17/24,7/17/2024,7/17/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,9
+303,6,23565,23575,PARENT1: Community Affairs,Zone 4 Public Safety Council Meeting - 7/18/24,7/18/2024,7/18/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,10
+303,7,23565,23576,PARENT1: Community Affairs,Connecting the SWPA New Economy Collaborative and Pitt - 7/19/24,7/19/2024,7/19/2024,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,11
+303,8,23565,23580,PARENT1: Community Affairs,Fraternity & Sorority Life Introductory Meeting - 7/23/24,7/23/2024,7/23/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,15
+303,9,23565,23582,PARENT1: Community Affairs,Open Streets 2024 - Homewood - Pitt Tabling Coordination - 7/25/24,7/25/2024,7/25/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,17
+303,10,23565,23584,PARENT1: Community Affairs,Open Streets - Homewood 2024,7/27/2024,7/27/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,4,2,19
+303,11,23565,23584,PARENT1: Community Affairs,Off Campus Furniture Collection 7/27/24,7/27/2024,7/27/2024,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,7,3,19
+303,12,23565,23586,PARENT1: Community Affairs,Community Affairs + Leadership Meeting - 7/29/2024,7/29/2024,7/29/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6,21
+303,13,23565,23587,PARENT1: Community Affairs,Quarterly UPMC PRSH Oakland Community Releations Meeting - 7/30/24,7/30/2024,7/30/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,4,22
+303,14,23565,23589,PARENT1: Community Affairs,Prep PRT for Oakland Task Force,8/1/2024,8/1/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,24
+303,15,23565,23593,PARENT1: Community Affairs,District 3 Central Oakland Resident Volunteer Project - 8/5/24,8/5/2024,8/5/2024,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,3,4,28
+303,16,23565,23594,PARENT1: Community Affairs,"Green Building Alliance Transit, Mobility & Public Health Meeting - 8/6/204",8/6/2024,8/6/2024,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,29
+303,17,23565,23595,PARENT1: Community Affairs,Chancellor's Award for Staff Selection Committee Meeting - 8/7/24,8/7/2024,8/7/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,30
+303,18,23565,23596,PARENT1: Community Affairs,Fraternity & Sorority Life Event Planning Meeting - 8/8/24,8/8/2024,8/8/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,31
+303,19,23565,23597,PARENT1: Community Affairs,Garbage Olympics Logistics Meeting - 8/9/24,8/9/2024,8/9/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,5,32
+303,20,23565,23603,PARENT1: Community Affairs,Resident Survey Planning Discussion 8/15/24,8/15/2024,8/15/2024,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,38
+303,21,23565,23603,PARENT1: Community Affairs,SWPA Hub Community Engaged Projects Intro Meeting - 8/15/24,8/15/2024,8/15/2024,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,38
+303,22,23565,23603,PARENT1: Community Affairs,Protest Enforcement Planning,8/15/2024,8/15/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,38
+303,23,23565,23603,PARENT1: Community Affairs,Oakland National Night Out 2024 - 8/15/24,8/15/2024,8/15/2024,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,3,0,38
+303,24,23565,23603,PARENT1: Community Affairs,Community Affairs Meeting - 8/15/24,8/15/2024,8/15/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,38
+303,25,23565,23604,PARENT1: Community Affairs,GeoPolitical Connections Intake,8/16/2024,8/16/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,39
+303,26,23565,23607,PARENT1: Community Affairs,Arrival Days Community Resource Tabling Fair - Day 1 - 8/19/24,8/19/2024,8/19/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,4,11,42
+303,27,23565,23607,PARENT1: Community Affairs,Neighborhood Commitments Presentation 8/19/24,8/19/2024,8/19/2024,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,4,42
+303,28,23565,23608,PARENT1: Community Affairs,Arrival Days Community Resource Tabling Fair - Day 2 - 8/20/24,8/20/2024,8/20/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,4,11,43
+303,29,23565,23608,PARENT1: Community Affairs,Graduate/Professional Student Resource Fair 8/20/24,8/20/2024,8/20/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,43
+303,30,23565,23610,PARENT1: Community Affairs,University Resource Fair 8/22/24,8/22/2024,8/22/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,3,0,45
+303,31,23565,23616,PARENT1: Community Affairs,Baxter Park Advisory Committee Meeting #3 - 8/28/24,8/28/2024,8/28/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,51
+303,32,23565,23617,PARENT1: Community Affairs,Community Affairs Meeting - 9/26/2024,8/29/2024,8/29/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,52
+303,33,23565,23623,PARENT1: Community Affairs,Stakeholders for AVP/DOC Recruitment Meeting - 9/4/24,9/4/2024,9/4/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,58
+303,34,23565,23626,PARENT1: Community Affairs,Fraternity & Sorority Life Leadership Retreat Facilitation - 9/7/24,9/7/2024,9/7/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,2,61
+303,35,23565,23628,PARENT1: Community Affairs,Development Activities Meeting: North Oakland Zoning - 9/9/24,9/9/2024,9/9/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,63
+303,36,23565,23628,PARENT1: Community Affairs,History of Art & Architecture Community Engagement Talk - 9/9/24,9/9/2024,9/9/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,63
+303,37,23565,23630,PARENT1: Community Affairs,Community Affairs + Leadership Meeting - 10/9/2024,9/11/2024,9/11/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,65
+303,38,23565,23630,PARENT1: Community Affairs,Community Affairs + Leadership Meeting - 9/11/2024,9/11/2024,9/11/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6,65
+303,39,23565,23631,PARENT1: Community Affairs,Connecting the SWPA New Economy Collaborative and Pitt - 9/12/24,9/12/2024,9/12/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,66
+303,40,23565,23631,PARENT1: Community Affairs,West Oakland #4 Block Club 9/12/24,9/12/2024,9/12/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,66
+303,41,23565,23631,PARENT1: Community Affairs,OTF Vice Chair Discussion,9/12/2024,9/12/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,66
+303,42,23565,23639,PARENT1: Community Affairs,SGB CGR & ECA Introductory Meeting,9/20/2024,9/20/2024,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,74
+303,43,23565,23643,PARENT1: Community Affairs,Off-Campus Student Services & The Corner Introduction Meeting - 9/24/24,9/24/2024,9/24/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,78
+303,44,23565,23645,PARENT1: Community Affairs,Appalachian Sustainable Finance Hub September Co-Lab 9/26/24,9/26/2024,9/26/2024,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,80
+303,45,23565,23646,PARENT1: Community Affairs,Civic Action Week Planning with OEDI 9/27/24,9/27/2024,9/27/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,81
+303,46,23565,23650,PARENT1: Community Affairs,UPMC Bed Tower Topping Off Ceremony,10/1/2024,10/1/2024,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,85
+303,47,23565,23651,PARENT1: Community Affairs,Resident Survey Scheduling with Oakland Ambassadors 10/2/24,10/2/2024,10/2/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,86
+303,48,23565,23657,PARENT1: Community Affairs,South Oakland Neighborhood Group 10/8/24,10/8/2024,10/8/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,92
+303,49,23565,23659,PARENT1: Community Affairs,West Oakland #4 Block Club 10/10/24,10/10/2024,10/10/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,94
+303,50,23565,23660,PARENT1: Community Affairs,Black Girl's Alliance Equity Summit,10/11/2024,10/11/2024,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,4,0,95
+303,51,23565,23664,PARENT1: Community Affairs,Ralph Bangs-Osher Lifelong Learning - Book club: Poverty in America - 10/15/24,10/15/2024,10/15/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,99
+303,52,23565,23670,PARENT1: Community Affairs,LUMA- Human Centered Designed Training-10/21/24,10/21/2024,10/21/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,8,0,105
+303,53,23565,23671,PARENT1: Community Affairs,LUMA- Human Centered Designed Training-10/22/24,10/22/2024,10/22/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,8,0,106
+303,54,23565,23671,PARENT1: Community Affairs,Ralph Bangs-Osher Lifelong Learning - Book club: Poverty in America - 10/22/24,10/22/2024,10/22/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,106
+303,55,23565,23673,PARENT1: Community Affairs,West Oakland Scholarship Fund Inquiry,10/24/2024,10/24/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,108
+303,56,23565,23677,PARENT1: Community Affairs,Planning Commission Communication Meeting - 10/28/24,10/28/2024,10/28/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6,112
+303,57,23565,23678,PARENT1: Community Affairs,Equitable Justice Greater Pittsburgh Network Meeting 10/29/24,10/29/2024,10/29/2024,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,113
+303,58,23565,23678,PARENT1: Community Affairs,Ralph Bangs-Osher Lifelong Learning - Book club: Poverty in America - 10/29/24,10/29/2024,10/29/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,113
+303,59,23565,23687,PARENT1: Community Affairs,Quarterly Pedestrian Safety Meeting 11/7/24,11/7/2024,11/7/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,122
+303,60,23565,23692,PARENT1: Community Affairs,South Oakland Neighborhood Group 11/12/24,11/12/2024,11/12/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,127
+303,61,23565,23692,PARENT1: Community Affairs,Ralph Bangs-Osher Lifelong Learning - Book club: Poverty in America - 11/12/24,11/12/2024,11/12/2024,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,127
+303,62,23565,23694,PARENT1: Community Affairs,West Oakland #4 Block Club 11/14/24,11/14/2024,11/14/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,129
+303,63,23565,23699,PARENT1: Community Affairs,City Planner Meeting to Discuss Recent Zoning Proposals (North Oakland) 11/19/24,11/19/2024,11/19/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,3,134
+303,64,23565,23720,PARENT1: Community Affairs,South Oakland Neighborhood Group 12/10/24,12/10/2024,12/10/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,155
+303,65,23565,23721,PARENT1: Community Affairs,Community Affairs + Leadership Meeting - 12/11/2024,12/11/2024,12/11/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,156
+303,66,23565,23722,PARENT1: Community Affairs,West Oakland #4 Block Club 12/12/24,12/12/2024,12/12/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,157
+303,67,23565,23726,PARENT1: Community Affairs,Human Centered Designed Training Follow up Session-12/16/24,12/16/2024,12/16/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,161
+304,4,23652,23652,PARENT1: Gismondi Neighborhood Education Program (GNEP),Math Illiteracy consult with Debra Cen - 10/3/24,10/3/2024,10/3/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+304,5,23652,23653,PARENT1: Gismondi Neighborhood Education Program (GNEP),10.29.24 GNEP and EJC Meeting,10/4/2024,10/4/2024,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1
+304,6,23652,23682,PARENT1: Gismondi Neighborhood Education Program (GNEP),PittEnrich Saturday Sessions - 11/2/24,11/2/2024,11/2/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,30
+304,7,23652,23688,PARENT1: Gismondi Neighborhood Education Program (GNEP),11.8.24 AmeriCorps Planning Grantee Meeting,11/8/2024,11/8/2024,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,36
+304,8,23652,23689,PARENT1: Gismondi Neighborhood Education Program (GNEP),PittEnrich Saturday Sessions - 11/9/24,11/9/2024,11/9/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,37
+304,9,23652,23691,PARENT1: Gismondi Neighborhood Education Program (GNEP),11.11.24 AmeriCorps Fiscal Planning Call,11/11/2024,11/11/2024,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,39
+304,10,23652,23699,PARENT1: Gismondi Neighborhood Education Program (GNEP),11.19.24 GNEP & CEAC Meeting,11/19/2024,11/19/2024,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,47
+304,11,23652,23702,PARENT1: Gismondi Neighborhood Education Program (GNEP),11.22.24 AmeriCorps Planning Grant Meeting,11/22/2024,11/22/2024,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,50
+304,12,23652,23703,PARENT1: Gismondi Neighborhood Education Program (GNEP),PittEnrich Saturday Sessions - 11/23/24,11/23/2024,11/23/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,51
+304,13,23652,23715,PARENT1: Gismondi Neighborhood Education Program (GNEP),12.5.24 NPSS Hub Meeting,12/5/2024,12/5/2024,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,63
+304,14,23652,23717,PARENT1: Gismondi Neighborhood Education Program (GNEP),PittEnrich Saturday Sessions - 12/7/24,12/7/2024,12/7/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,65
+304,15,23652,23722,PARENT1: Gismondi Neighborhood Education Program (GNEP),12.12.24 AmeriCorps Fiscal Planning,12/12/2024,12/12/2024,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,70
+304,16,23652,23723,PARENT1: Gismondi Neighborhood Education Program (GNEP),11.13.24 AmeriCorps Planning Meeting,12/13/2024,12/13/2024,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,71
+306,1,23575,23575,PARENT1: HQ External CE Inquiries,Sustaining Community Engaged Research Intake,7/18/2024,7/18/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0
+306,2,23575,23580,PARENT1: HQ External CE Inquiries,Neighborhood Learning Alliance Get on the Bus Presentation,7/23/2024,7/23/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,5
+306,3,23575,23583,PARENT1: HQ External CE Inquiries,WashU Tour,7/26/2024,7/26/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,8
+306,4,23575,23588,PARENT1: HQ External CE Inquiries,TFF Tropman Report Briefing,7/31/2024,7/31/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,13
+306,5,23575,23589,PARENT1: HQ External CE Inquiries,GPNP 8/1 Advisory Team Meeting,8/1/2024,8/1/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,14
+306,6,23575,23615,PARENT1: HQ External CE Inquiries,ECA & HCEF 8/27/24,8/27/2024,8/27/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,1,40
+306,7,23575,23623,PARENT1: HQ External CE Inquiries,SWPA Municipal Hub - 9/4/24,9/4/2024,9/4/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,48
+306,8,23575,23624,PARENT1: HQ External CE Inquiries,GPNP Q4 Advisory Team Meeting,9/5/2024,9/5/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,49
+306,9,23575,23628,PARENT1: HQ External CE Inquiries,Jamie & Matthew Durington,9/9/2024,9/9/2024,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,53
+306,10,23575,23630,PARENT1: HQ External CE Inquiries,Foodbank and GSPIA - 9/11/24,9/11/2024,9/11/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,55
+306,11,23575,23663,PARENT1: HQ External CE Inquiries,Meeting w/ Dave Harker PCCE,10/14/2024,10/14/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,88
+306,12,23575,23671,PARENT1: HQ External CE Inquiries,Times Higher Education meeting - 10/22/2024,10/22/2024,10/22/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,96
+306,13,23575,23673,PARENT1: HQ External CE Inquiries,VisitPITTSBURGH Oakland East Tourism District Kick Off,10/24/2024,10/24/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,4,98
+306,14,23575,23674,PARENT1: HQ External CE Inquiries,Jamie + Shenay Planning Meeting,10/25/2024,10/25/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,99
+306,15,23575,23686,PARENT1: HQ External CE Inquiries,Amy Williams meeting - 11/6/2024,11/6/2024,11/6/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,111
+306,16,23575,23687,PARENT1: HQ External CE Inquiries,GPNP 11/7 Advisory Team Meeting,11/7/2024,11/7/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,112
+306,17,23575,23688,PARENT1: HQ External CE Inquiries,Jubilee Soup Kitchen Tour - 11/8/24,11/8/2024,11/8/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,5,113
+306,18,23575,23695,PARENT1: HQ External CE Inquiries,Connect ULEAD and Pitt BHAS,11/15/2024,11/15/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,120
+306,19,23575,23699,PARENT1: HQ External CE Inquiries,PBI Conversation: ECA + Stanford Haas,11/19/2024,11/19/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,5,124
+306,20,23575,23700,PARENT1: HQ External CE Inquiries,Allegheny County Consult on Economic Impact Strategy - 11/20/24,11/20/2024,11/20/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,125
+306,21,23575,23714,PARENT1: HQ External CE Inquiries,UPMC: Community of Practice Convening,12/4/2024,12/4/2024,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,139
+306,22,23575,23719,PARENT1: HQ External CE Inquiries,WVU Consult on Economic Impact Strategy - 12/9/24,12/9/2024,12/9/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,144
+306,23,23575,23720,PARENT1: HQ External CE Inquiries,Jamie + Aaron Nance,12/10/2024,12/10/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,145
+306,24,23575,23720,PARENT1: HQ External CE Inquiries,Pitt-OSU Information Share Urban Research 12/10/24,12/10/2024,12/10/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,145
+306,25,23575,23721,PARENT1: HQ External CE Inquiries,Carnegie Museums + ECA: Engagement Framework,12/11/2024,12/11/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,146
+306,26,23575,23721,PARENT1: HQ External CE Inquiries,ECA + Carnegie Museum IDEA meetup,12/11/2024,12/11/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,146
+306,27,23575,23727,PARENT1: HQ External CE Inquiries,Benedum Consult on Economic Impact Strategy - 12/17/24,12/17/2024,12/17/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,152
+307,1,23559,23559,PARENT1: HQ Internal CE Support Requests,Community Enagement & Wellbeing Intake,7/2/2024,7/2/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,0
+307,2,23559,23560,PARENT1: HQ Internal CE Support Requests,Campus Protest Community Engagement Support Intake,7/3/2024,7/3/2024,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,1
+307,3,23559,23576,PARENT1: HQ Internal CE Support Requests,Phil Bakken Orientation to Community Engagement,7/19/2024,7/19/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,5,1,17
+307,4,23559,23600,PARENT1: HQ Internal CE Support Requests,Dwayne Pinkney Meet and Greet - 8/12/24,8/12/2024,8/12/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,41
+307,5,23559,23604,PARENT1: HQ Internal CE Support Requests,Community Engagement: Well-Being,8/16/2024,8/16/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,45
+307,6,23559,23651,PARENT1: HQ Internal CE Support Requests,Dwayne Pinkney Visit to CEC - 10/2/24,10/2/2024,10/2/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,92
+307,7,23559,23688,PARENT1: HQ Internal CE Support Requests,Tamara Dubowitz - 11/8/24,11/8/2024,11/8/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,129
+307,8,23559,23701,PARENT1: HQ Internal CE Support Requests,IOP Economic Development & Pew - 11/21/24,11/21/2024,11/21/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,142
+307,9,23559,23716,PARENT1: HQ Internal CE Support Requests,Mahati Kopparla - 12/6/24,12/6/2024,12/6/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,157
+308,1,23559,23559,PARENT1: Learning and Development,External 1:1 Meeting with Peter Allen 7/2/24,7/2/2024,7/2/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+308,2,23559,23569,PARENT1: Learning and Development,ECA/CTSI Human Centered Design Discussion 7/12/24,7/12/2024,7/12/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,10
+308,3,23559,23594,PARENT1: Learning and Development,External 1:1 Meeting with Nicole Oshurak 8/6/24,8/6/2024,8/6/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,35
+308,4,23559,23597,PARENT1: Learning and Development,Student Success Hub Collaboration 8/9/24,8/9/2024,8/9/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,38
+308,5,23559,23610,PARENT1: Learning and Development,New Faculty Resource Fair - 8/22/24,8/22/2024,8/22/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,14,51
+308,6,23559,23625,PARENT1: Learning and Development,"External Meeting with Adena Bowden, Healthy Start 9/6/24",9/6/2024,9/6/2024,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,66
+308,7,23559,23628,PARENT1: Learning and Development,"External Meeting with Meggan Lloyd, Pitt Serves 9/9/24",9/9/2024,9/9/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,69
+308,8,23559,23637,PARENT1: Learning and Development,Internal Funding Showcase - 9/18/24,9/18/2024,9/18/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,8,78
+308,9,23559,23643,PARENT1: Learning and Development,External 1:1 Meeting Vital Conditions and L&D 9/24/24,9/24/2024,9/24/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,84
+308,10,23559,23644,PARENT1: Learning and Development,External 1:1 Meeting with Christina Frasher 9/25/24,9/25/2024,9/25/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,85
+308,11,23559,23650,PARENT1: Learning and Development,External 1:1 Meeting with Shawn Bengston 10/1/24,10/1/2024,10/1/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,91
+308,12,23559,23653,PARENT1: Learning and Development,External 1:1 Meeting with DLAR and McGowan 10/4/24,10/4/2024,10/4/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,94
+308,13,23559,23663,PARENT1: Learning and Development,External 1:1 Meeting with Deanna Ibrahim and Christina Frasher 10/14/24,10/14/2024,10/14/2024,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,104
+308,14,23559,23666,PARENT1: Learning and Development,External 1:1 Meeting with Deanna Ibrahim 10/17/24,10/17/2024,10/17/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,107
+308,15,23559,23672,PARENT1: Learning and Development,External 1:1 Meeting Vital Conditions and L&D follow up 10/23/24,10/23/2024,10/23/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,113
+308,16,23559,23672,PARENT1: Learning and Development,"Civic Engagement &Learning discussion, ECA, CTL, Honors College - 10/23/2024",10/23/2024,10/23/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,113
+308,17,23559,23684,PARENT1: Learning and Development,Hill Health Alliance Constituent Mapping Session 11/4/24,11/4/2024,11/4/2024,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,4,125
+308,18,23559,23691,PARENT1: Learning and Development,Katz Business CES Discussion meeting - 11/11/2024,11/11/2024,11/11/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,132
+308,19,23559,23694,PARENT1: Learning and Development,NRT Proposal CoP Meeting 11/14/24,11/14/2024,11/14/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,14,135
+308,20,23559,23695,PARENT1: Learning and Development,Staff Council Spotlight Webinar 11/15/24,11/15/2024,11/15/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,19,136
+308,21,23559,23715,PARENT1: Learning and Development,LRDC Community Engaged Research Meeting 12/5/24,12/5/2024,12/5/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,156
+308,22,23559,23727,PARENT1: Learning and Development,External 1:1 Meeting with Nicole Oshurak 12/17/24,12/17/2024,12/17/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,168
+310,2,23601,23601,PARENT1: OLLI General Internal Outreach,OLLI - Library planning meeting,8/13/2024,8/13/2024,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+310,3,23601,23649,PARENT1: OLLI General Internal Outreach,OLLI Research Collaboration - Longfei Shangguan 9/30/24,9/30/2024,9/30/2024,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,48
+310,4,23601,23668,PARENT1: OLLI General Internal Outreach,OLLI Event - Tour of Allegheny Observatory,10/19/2024,10/19/2024,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,0,67
+310,5,23601,23673,PARENT1: OLLI General Internal Outreach,OLLI - Library planning meeting 10/24/24,10/24/2024,10/24/2024,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,72
+310,6,23601,23702,PARENT1: OLLI General Internal Outreach,OLLI Event - Library Resources and Services webinar,11/22/2024,11/22/2024,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,2,101
+310,7,23601,23705,PARENT1: OLLI General Internal Outreach,OLLI Event - Tour of Healthy Home Lab,11/25/2024,11/25/2024,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,1,104
+310,8,23601,23714,PARENT1: OLLI General Internal Outreach,OLLI Event - Tour of the Vision Institute,12/4/2024,12/4/2024,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,1,113
+321,1,23573,23573,Pitt Police & OCSS Check Ins,Concern Connection Updates Meeting - 7/16/24,7/16/2024,7/16/2024,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+321,2,23573,23614,Pitt Police & OCSS Check Ins,Pitt Police Check In - 8/26/24,8/26/2024,8/26/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,41
+321,3,23573,23631,Pitt Police & OCSS Check Ins,Oakland Trash Management Student Initiatives Meeting 9/12/24,9/12/2024,9/12/2024,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,3,58
+321,4,23573,23638,Pitt Police & OCSS Check Ins,Summer Clutter & Furniture Collection Recap Meeting - 9/19/24,9/19/2024,9/19/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,65
+327,3,23701,23701,Procurement,Conference Abstract Brainstorm meeting - 11/21/2024,11/21/2024,11/21/2024,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+328,1,23601,23601,Project Development Cohort,PDC call with Jenna Nichols 8/13/24,8/13/2024,8/13/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+328,2,23601,23644,Project Development Cohort,External 1:1 Meeting ECA and the OER Committee 9/25/24,9/25/2024,9/25/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,43
+328,3,23601,23659,Project Development Cohort,Engaged Scholarship Project Development Cohort Session 1 10/10/24,10/10/2024,10/10/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,4,13,58
+328,4,23601,23721,Project Development Cohort,Project Development Cohort Facilitator Prep Session,12/11/2024,12/11/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,120
+328,5,23601,23721,Project Development Cohort,PDC session #2 planning call with Aliya Durham 12/11/24,12/11/2024,12/11/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,120
+328,6,23601,23729,Project Development Cohort,Engaged Scholarship Project Development Cohort Session 2 12/19/24,12/19/2024,12/19/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,4,12,128
+330,1,23560,23560,Public Service and Volunteerism,DEI 2.0 Introduction 7/3/24,7/3/2024,7/3/2024,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+330,2,23560,23569,Public Service and Volunteerism,Off Campus Clutter for A Cause 7/12/24,7/12/2024,7/12/2024,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,5,1,9
+330,3,23560,23572,Public Service and Volunteerism,BAGND Planning 7/15/24,7/15/2024,7/15/2024,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,12
+330,4,23560,23583,Public Service and Volunteerism,Final Planning Updates for CAW 7/26/24,7/26/2024,7/26/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,23
+330,5,23560,23594,Public Service and Volunteerism,DEI 2.0 Follow Up 8/6/24,8/6/2024,8/6/2024,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,34
+330,6,23560,23597,Public Service and Volunteerism,Garbage Olympics Logistics Meetings 8/9/24,8/9/2024,8/9/2024,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,5,37
+330,7,23560,23598,Public Service and Volunteerism,Furniture Redistribution 8/10/24,8/10/2024,8/10/2024,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,6,2,38
+330,8,23560,23632,Public Service and Volunteerism,Bates Street Faculty Cleanup 9/13/24,9/13/2024,9/13/2024,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,10,72
+330,9,23560,23651,Public Service and Volunteerism,Off-Campus Student Services 10/2/24,10/2/2024,10/2/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,91
+330,10,23560,23656,Public Service and Volunteerism,United Way Steering Committee 10/7/24,10/7/2024,10/7/2024,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,96
+330,11,23560,23666,Public Service and Volunteerism,PSV Presentation at OEDI Forum,10/17/2024,10/17/2024,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,106
+330,12,23560,23679,Public Service and Volunteerism,Reading is FUNdamental Program Introduction 10/30/24,10/30/2024,10/30/2024,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,119
+330,13,23560,23684,Public Service and Volunteerism,United Way Steering Committee 11/4/24,11/4/2024,11/4/2024,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,124
+330,14,23560,23692,Public Service and Volunteerism,Meeting with OCSS 11/12/24,11/12/2024,11/12/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,132
+330,15,23560,23695,Public Service and Volunteerism,PDC/Jada House Staff Service Project - 11/15/24,11/15/2024,11/15/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,3,7,135
+330,16,23560,23714,Public Service and Volunteerism,Tenant Town Hall Review 12/4/24,12/4/2024,12/4/2024,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,3,154
+330,17,23560,23726,Public Service and Volunteerism,Food Bank Volunteerism Planning 12/16/24,12/16/2024,12/16/2024,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,166
+332,1,23726,23726,RECAST: Hazelwood,12.16.24 RECAST Project Intro for Center of Life,12/16/2024,12/16/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,5,0
+341,4,23574,23574,SHRS Wellness Pavillion Outpatient Services,Meeting w/ VBA - Vision Services at WP - 7.17.24,7/17/2024,7/17/2024,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0
+341,5,23574,23581,SHRS Wellness Pavillion Outpatient Services,SHRS Wellness Pavillion Outpatient Services Community Meeting,7/24/2024,7/24/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,16,7
+341,6,23574,23595,SHRS Wellness Pavillion Outpatient Services,Meeting w/ VBA - Vision Services at WP - 8.7.24,8/7/2024,8/7/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,21
+341,7,23574,23693,SHRS Wellness Pavillion Outpatient Services,CEC Access,11/13/2024,11/13/2024,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,4,119
+342,2,23729,23729,STEAM Saturdays,12.19.24 GNEP & Trauma Emergency League Meeting,12/19/2024,12/19/2024,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+351,1,23596,23596,Smithsonian Biotechnology Curriculum w. GNEP,8.8.24 Biotechnology Curriculum at Center of Life,8/8/2024,8/8/2024,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,0
+351,2,23596,23642,Smithsonian Biotechnology Curriculum w. GNEP,9.23.24 Center of Life Biotechnology Curriculum Check-In,9/23/2024,9/23/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,5,46
+351,3,23596,23650,Smithsonian Biotechnology Curriculum w. GNEP,10.01.24 Smithsonian Biotechnology Curriculum Launch w. CoL,10/1/2024,10/1/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2,5,54
+351,4,23596,23652,Smithsonian Biotechnology Curriculum w. GNEP,10.03.24 Smithsonian Biotechnology Curriculum- Lesson Planning,10/3/2024,10/3/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,5,56
+351,5,23596,23657,Smithsonian Biotechnology Curriculum w. GNEP,10.08.24 Smithsonian Biotechnology Curriculum w. CoL,10/8/2024,10/8/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2,5,61
+351,6,23596,23659,Smithsonian Biotechnology Curriculum w. GNEP,10.10.24 Smithsonian Biotechnology Curriculum w. CoL,10/10/2024,10/10/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2,7,63
+351,7,23596,23664,Smithsonian Biotechnology Curriculum w. GNEP,10.15.24 Smithsonian Biotechnology Curriculum w. CoL,10/15/2024,10/15/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2,6,68
+351,8,23596,23666,Smithsonian Biotechnology Curriculum w. GNEP,10.17.24 Smithsonian Biotechnology Curriculum w. CoL,10/17/2024,10/17/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2,5,70
+351,9,23596,23671,Smithsonian Biotechnology Curriculum w. GNEP,10.22.24 Smithsonian Biotechnology Curriculum w. CoL,10/22/2024,10/22/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2,5,75
+351,10,23596,23678,Smithsonian Biotechnology Curriculum w. GNEP,10.29.24 Smithsonian Biotechnology Curriculum w. CoL,10/29/2024,10/29/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2,5,82
+351,11,23596,23685,Smithsonian Biotechnology Curriculum w. GNEP,11.5.24 Smithsonian Science Education Center,11/5/2024,11/5/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,9,89
+351,12,23596,23687,Smithsonian Biotechnology Curriculum w. GNEP,11.7.24 Smithsonian Biotechnology Curriculum w. CoL,11/7/2024,11/7/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2,5,91
+351,13,23596,23692,Smithsonian Biotechnology Curriculum w. GNEP,11.12.24 Smithsonian Biotechnology Curriculum w. CoL,11/12/2024,11/12/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,3,6,96
+351,14,23596,23694,Smithsonian Biotechnology Curriculum w. GNEP,11.14.24 Smithsonian Biotechnology Curriculum w. CoL,11/14/2024,11/14/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2,5,98
+351,15,23596,23699,Smithsonian Biotechnology Curriculum w. GNEP,11.19.24 Smithsonian Biotechnology Curriculum w. CoL,11/19/2024,11/19/2024,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2,5,103
+351,16,23596,23726,Smithsonian Biotechnology Curriculum w. GNEP,12.16.24 Smithsonian Biotech Curriculum – Recap,12/16/2024,12/16/2024,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,130
+353,1,23589,23589,Solid Waste Pick Ups,DPW Agreement Support Meeting - 8/1/24,8/1/2024,8/1/2024,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0
+356,1,23660,23660,Student Government Board,Pittsburgh Policy Initiative Meeting - 10/11/24,10/11/2024,10/11/2024,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,4,0
+364,1,23674,23674,Tours of Distinction,OLLI Travel: Tours of Distinction 10/25/24,10/25/2024,10/25/2024,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+365,8,23667,23667,UCSUR Director Search,UCSUR Director Search meeting w/ CEC staff - 10/18/2024,10/18/2024,10/18/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,5,0
+365,9,23667,23674,UCSUR Director Search,UCUSR Director Open Form - 10/25/2024,10/25/2024,10/25/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,7
+365,10,23667,23680,UCSUR Director Search,Final Position Description Revisions - 10/31/24,10/31/2024,10/31/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,13
+365,11,23667,23720,UCSUR Director Search,Director Search Advisory Committee Meeting - 12/10/24,12/10/2024,12/10/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,53
+366,4,23628,23628,United Way Campaign Chair,Kickoff Video Shoot,9/9/2024,9/9/2024,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+366,5,23628,23665,United Way Campaign Chair,Racial Wealth Gap Welcome,10/16/2024,10/16/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,37
+366,6,23628,23672,United Way Campaign Chair,Bridges Next Gen Kick Off,10/23/2024,10/23/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,44
+366,7,23628,23679,United Way Campaign Chair,Steering Committee Prep - 10/30/24,10/30/2024,10/30/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,51
+366,8,23628,23684,United Way Campaign Chair,United Way Steering Committee - 11/4/2024,11/4/2024,11/4/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,56
+366,9,23628,23686,United Way Campaign Chair,Thanksgiving Luncheon,11/6/2024,11/6/2024,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,58
+366,10,23628,23706,United Way Campaign Chair,Shift Change Meeting,11/26/2024,11/26/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,78
+366,11,23628,23707,United Way Campaign Chair,Shift Change Meeting - 11/26/24 8 am,11/27/2024,11/27/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,79
+366,12,23628,23707,United Way Campaign Chair,Shift Change Meeting - 11/27/24 6 am,11/27/2024,11/27/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,79
+366,13,23628,23719,United Way Campaign Chair,Shift Change - 12/9/24 - 8 am,12/9/2024,12/9/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,91
+366,14,23628,23719,United Way Campaign Chair,Shift Change - 12/9/24 - 6 am,12/9/2024,12/9/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,91
+366,15,23628,23719,United Way Campaign Chair,Shift Change - 12/9/24 - 7 am,12/9/2024,12/9/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,91
+366,16,23628,23719,United Way Campaign Chair,United Way Monthly Check In - 12/9/24,12/9/2024,12/9/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,91
+366,17,23628,23720,United Way Campaign Chair,Shift Change - 12/10/24 - 6 am,12/10/2024,12/10/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,92
+366,18,23628,23720,United Way Campaign Chair,Shift Change - 12/10/24 - 8 am,12/10/2024,12/10/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,92
+366,19,23628,23721,United Way Campaign Chair,Shift Change - 12/11/24 - 8 am,12/11/2024,12/11/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,93
+366,20,23628,23721,United Way Campaign Chair,Shift Change - 12/11/24 - 6 am,12/11/2024,12/11/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,93
+366,21,23628,23722,United Way Campaign Chair,Shift Change - 12/12/24 - 6 am,12/12/2024,12/12/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,94
+366,22,23628,23722,United Way Campaign Chair,Shift Change - 12/12/24 - 8 am,12/12/2024,12/12/2024,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,94
+369,1,23721,23721,Urban Farming,Urban Farming Inquiry - 12/12/24,12/11/2024,12/11/2024,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+369,2,23721,23723,Urban Farming,Urban Farming Follow Up - 12/13/24,12/13/2024,12/13/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+370,1,23610,23610,Validating and Communicating Impact,Kick-off: Validating and Communicating Impact - 8/22/2024,8/22/2024,8/22/2024,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0
+370,2,23610,23677,Validating and Communicating Impact,Validating and Communicating Impact meeting - 10/28/2024,10/28/2024,10/28/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,67
+370,3,23610,23705,Validating and Communicating Impact,Validating and Communicating Impact meeting - 11/25/2024,11/25/2024,11/25/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,95
+372,1,23657,23657,West Oakland #4 Block Club,Meeting w/ Scarlet Morgan,10/8/2024,10/8/2024,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+375,1,23558,23558,Workforce Development - External,Operation Better Block,7/1/2024,7/1/2024,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0
+375,2,23558,23604,Workforce Development - External,Pittsburgh Good Job Principals 8/16/2024,8/16/2024,8/16/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,46
+375,3,23558,23614,Workforce Development - External,TEAM/PITT Anchor Meeting 8/26/2024,8/26/2024,8/26/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,56
+375,4,23558,23617,Workforce Development - External,The Regional Community and Economic Development Policy Committee 8/29/2024,8/29/2024,8/29/2024,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,3,0,59
+375,5,23558,23674,Workforce Development - External,2024 White House Hub Documentation,10/25/2024,10/25/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,116
+375,6,23558,23685,Workforce Development - External,OBID/ Anchor Initiatives Workforce Development - 11/5/2024,11/5/2024,11/5/2024,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,127
+375,7,23558,23728,Workforce Development - External,Follow up w Mark Lay - 12/18/2024,12/18/2024,12/18/2024,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,170
