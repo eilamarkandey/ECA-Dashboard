@@ -12,6 +12,9 @@ server = Flask(__name__)
 dash_app = create_dash_app(server)
 app = dash_app.server
 
+# Required for Vercel
+application = app
+
 # The application
 app = server
 

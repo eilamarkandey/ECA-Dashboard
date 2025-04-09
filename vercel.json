@@ -8,28 +8,8 @@
   ],
   "routes": [
     {
-      "src": "/_dash-layout",
-      "dest": "/api/index.py"
-    },
-    {
-      "src": "/_dash-dependencies",
-      "dest": "/api/index.py"
-    },
-    {
-      "src": "/_dash-update-component",
-      "dest": "/api/index.py"
-    },
-    {
-      "src": "/_dash-component-suites/(.*)",
-      "dest": "/api/index.py"
-    },
-    {
-      "src": "/assets/(.*)",
-      "dest": "/api/index.py"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/api/index.py"
+      "src": "/.*",
+      "dest": "api/index.py"
     }
   ]
 }
